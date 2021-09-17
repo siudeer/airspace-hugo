@@ -4,11 +4,10 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: 'The Deer of SIU '
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: 'We follow deer movement on SIU campus... '
   button:
     enable: true
-    label: Discover Our Project
+    label: Meet the deer
     link: project
 about:
   enable: true
