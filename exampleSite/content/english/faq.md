@@ -1,21 +1,12 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-lastmod: 2021-04-01T00:00:00
-bg_image: "images/feature-bg.jpg"
-layout: "faq"
-draft: false
-menu:
-  main:
-    parent: "More"
-    name: "FAQ"
-    weight: 3
-  footer:
-    name: "FAQ"
-    weight: 5
----
+title: Frequently Asked Questions
+description: Learn more about the behind the scenes
+subtitle: ''
+lastmod: 2021-09-18T00:00:00+00:00
+bg_image: images/feature-bg.jpg
+layout: faq
 
+---
 ### Welcome to Airspace!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
