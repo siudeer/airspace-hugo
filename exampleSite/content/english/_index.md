@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  bg_overlay: true
+  bg_overlay: false
   title: 'The Deer of SIU '
   content: 'We follow deer movement on SIU campus... '
   button:
@@ -22,6 +22,9 @@ about:
     fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
     culpa qui officia deserunt mollit anim id.
   image: images/wrapper-img.png
+  button:
+    enable: true
+    label: Learn more about who we are - link to SWEL PAGE
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
