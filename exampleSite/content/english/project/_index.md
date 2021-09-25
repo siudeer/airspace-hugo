@@ -6,6 +6,6 @@ menu:
   footer:
     weight: 4
   main:
-    weight: 6
+    weight: 7
 
 ---

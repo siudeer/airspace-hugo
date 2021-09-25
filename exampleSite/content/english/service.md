@@ -79,6 +79,6 @@ cta:
 menu:
   main:
     parent: More
-    weight: 5
+    weight: 6
 
 ---

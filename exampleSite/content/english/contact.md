@@ -6,6 +6,6 @@ layout: contact
 menu:
   main:
     name: Contact
-    weight: 7
+    weight: 2
 
 ---
