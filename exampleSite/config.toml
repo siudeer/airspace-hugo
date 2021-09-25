@@ -23,10 +23,8 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 languageCode = "en-US"
 languageName = "English"
 weight = 1
-[[languages.en.menu.main]]
-hasChildren = true
-name = "More"
-weight = "40"
+[languages.en.menu]
+main = []
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
