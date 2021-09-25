@@ -25,7 +25,7 @@ about:
     link: service
 portfolio:
   enable: true
-  bg_image: images/dsc09538_slate.JPG
+  bg_image: images/deer_bleu.jpg
   title: WHERE DO DEER GO ON CAMPUS?
   content: "Southern Illinois possesses some of the highest abundance of white-tailed
     deer within the state, and deer can be easily observed around and within the city
