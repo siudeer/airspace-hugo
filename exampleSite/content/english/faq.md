@@ -1,47 +1,35 @@
 ---
 title: Frequently Asked Questions
 description: Learn more about the behind the scenes
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
-lastmod: '2021-04-01T00:00:00.000+00:00'
-bg_image: "/images/dsc09538.JPG"
+subtitle: ''
+lastmod: 2021-09-26T00:00:00+00:00
+bg_image: images/feature-bg.jpg
 layout: faq
-menu:
-  main:
-    name: FAQ
-    parent: More
-    weight: 6
 
 ---
-### Welcome to Airspace!
+### Let us know your questions! 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Feel free to reach out if you have questions not answered here. 
 
-#### 1.Overview
+#### 1.How do we capture, collar, and process the deer?
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
 neque excepturi aliquid. Eligendi, mollitia.
 
-#### 2. Data We Collect
+#### 2. What are you studying?
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
 quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
 reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
 impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
 
-#### 3. How We Use Data
+#### 3. Are the captures stressful for the deer?
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
 repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
 libero laudantium corporis, delectus impedit sunt.
 
-#### 4. How We Disclose Data.
+#### 4. Can I get involved? 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
 possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
@@ -52,7 +40,7 @@ necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequat
 Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
 magnam, vero itaque!
 
-#### 5. Security
+#### 5. Will you keep doing this? 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
 cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
