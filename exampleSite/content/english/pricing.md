@@ -1,6 +1,6 @@
 ---
-title: Our Pricing
-description: this is meta description
+title: Contribute
+description: ''
 bg_image: images/feature-bg.jpg
 layout: pricing
 pricing:
@@ -41,13 +41,5 @@ pricing:
     - 24/7 Tech Support
 cta:
   enable: true
-menu:
-  footer:
-    name: Pricing
-    weight: 5
-  main:
-    name: Pricing
-    parent: More
-    weight: 5
 
 ---
