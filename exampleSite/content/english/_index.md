@@ -40,7 +40,7 @@ portfolio:
     individual deer to see their whereabouts and favorite hanging spots.  "
   button:
     enable: true
-    label: See the deer whereabouts
+    label: See where the deer are hanging out!
     link: project
 service:
   enable: false
