@@ -1,5 +1,5 @@
 ---
-title: Service
+title: Who we are
 description: this is meta description
 bg_image: images/feature-bg.jpg
 layout: service
@@ -76,9 +76,5 @@ service:
       tempor incididunt ut
 cta:
   enable: true
-menu:
-  main:
-    parent: More
-    weight: 2
 
 ---
