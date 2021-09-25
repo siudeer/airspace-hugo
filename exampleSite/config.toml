@@ -36,7 +36,7 @@ weight = 2
 [[languages.fr.menu.main]]
 hasChildren = true
 name = "Plus"
-weight = "2"
+weight = "8"
 [languages.it]
 contentDir = "content/italian"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
