@@ -44,9 +44,9 @@ languageCode = "it-IT"
 languageName = "Italiano"
 weight = "2"
 [[languages.it.menu.main]]
-hasChildren = true
+hasChildren = false
 name = "Più"
-weight = 5
+weight = "5"
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
