@@ -24,10 +24,6 @@ languageCode = "en-US"
 languageName = "English"
 weight = 1
 [[languages.en.menu.main]]
-hasChildren = ""
-name = ""
-weight = ""
-[[languages.en.menu.main]]
 hasChildren = true
 name = "More"
 weight = 5
@@ -40,13 +36,13 @@ weight = 2
 [[languages.fr.menu.main]]
 hasChildren = true
 name = "Plus"
-weight = 5
+weight = "2"
 [languages.it]
 contentDir = "content/italian"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
 languageCode = "it-IT"
 languageName = "Italiano"
-weight = 2
+weight = "2"
 [[languages.it.menu.main]]
 hasChildren = true
 name = "Più"
