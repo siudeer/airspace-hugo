@@ -59,7 +59,7 @@ min = "0.87.0"
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "SWEL"
 description = "This is meta description"
 image = "images/logo.png"
 logo = "images/logo.png"
