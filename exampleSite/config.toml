@@ -52,41 +52,11 @@ endLevel = 6
 ordered = false
 startLevel = 2
 [[menu.footer]]
-name = "Servizio"
-weight = 14
-[[menu.footer]]
-name = "Progetto"
-weight = 12
-[[menu.footer]]
-name = "Tariffazione"
-weight = 17
-[[menu.footer]]
-name = "Domande frequenti"
-weight = 20
-[[menu.footer]]
-name = "Contatta"
-weight = 23
-[[menu.footer]]
 name = "Chi siamo"
-weight = 9
-[[menu.footer]]
-name = "Dienstleistung"
-weight = 13
-[[menu.footer]]
-name = "Projekt"
-weight = 11
-[[menu.footer]]
-name = "Preise"
-weight = 16
-[[menu.footer]]
-name = "Häufige Fragen"
-weight = 19
-[[menu.footer]]
-name = "Kontakt"
-weight = 22
+weight = 8
 [[menu.footer]]
 name = "Über uns"
-weight = 8
+weight = 7
 [[menu.main]]
 identifier = "blog"
 name = "Blog"

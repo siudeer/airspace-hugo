@@ -78,7 +78,7 @@ cta:
   enable: true
 menu:
   footer:
-    weight: 3
+    weight: 2
   main:
     parent: Plus
     weight: 4

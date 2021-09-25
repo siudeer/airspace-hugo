@@ -7,8 +7,8 @@ bg_image: images/feature-bg.jpg
 layout: faq
 menu:
   footer:
-    name: Questions fréquentes
-    weight: 18
+    name: FAQ
+    weight: 3
 
 ---
 ### Welcome to Airspace!

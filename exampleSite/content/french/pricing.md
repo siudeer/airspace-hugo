@@ -41,9 +41,5 @@ pricing:
     - 24/7 Tech Support
 cta:
   enable: true
-menu:
-  footer:
-    name: Tarification
-    weight: 15
 
 ---

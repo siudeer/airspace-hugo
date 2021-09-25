@@ -105,6 +105,6 @@ cta:
 menu:
   footer:
     name: About
-    weight: 7
+    weight: 6
 
 ---
