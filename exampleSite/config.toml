@@ -53,6 +53,94 @@ unsafe = true
 endLevel = 6
 ordered = false
 startLevel = 2
+[[menu.footer]]
+name = "Servizio"
+weight = 13
+[[menu.footer]]
+name = "Progetto"
+weight = 11
+[[menu.footer]]
+name = "Tariffazione"
+weight = 16
+[[menu.footer]]
+name = "Domande frequenti"
+weight = 19
+[[menu.footer]]
+name = "Contatta"
+weight = 22
+[[menu.footer]]
+name = "Chi siamo"
+weight = 8
+[[menu.footer]]
+name = "Dienstleistung"
+weight = 12
+[[menu.footer]]
+name = "Projekt"
+weight = 10
+[[menu.footer]]
+name = "Preise"
+weight = 15
+[[menu.footer]]
+name = "Häufige Fragen"
+weight = 18
+[[menu.footer]]
+name = "Kontakt"
+weight = 21
+[[menu.footer]]
+name = "Über uns"
+weight = 7
+[[menu.main]]
+name = "Servizio"
+parent = "Più"
+weight = 8
+[[menu.main]]
+name = "Progetto"
+weight = 24
+[[menu.main]]
+name = "Tariffazione"
+parent = "Più"
+weight = 16
+[[menu.main]]
+name = "Domande frequenti"
+parent = "Più"
+weight = 23
+[[menu.main]]
+name = "Contatta"
+weight = 28
+[[menu.main]]
+name = "Chi siamo"
+weight = 15
+[[menu.main]]
+name = "Pagina iniziale"
+weight = 7
+[[menu.main]]
+name = "Dienstleistung"
+parent = "Mehr"
+weight = 6
+[[menu.main]]
+name = "Projekt"
+weight = 22
+[[menu.main]]
+name = "Preise"
+parent = "Mehr"
+weight = 14
+[[menu.main]]
+name = "Häufige Fragen"
+parent = "Mehr"
+weight = 21
+[[menu.main]]
+name = "Kontakt"
+weight = 27
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+weight = 25
+[[menu.main]]
+name = "Über uns"
+weight = 13
+[[menu.main]]
+name = "Startseite"
+weight = 5
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
