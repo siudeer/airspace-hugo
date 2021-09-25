@@ -65,7 +65,7 @@ image = "images/logo.png"
 logo = "images/logo.png"
 logo_width = "150px"
 [params.contact]
-address_descriptors = false
+address_descriptors = true
 email = "deer@siu.edu"
 location = "**Spatial Wildlife Ecology Lab**  Southern Illinois University, Carbondale, IL, 62901"
 phone = "6184536946"
