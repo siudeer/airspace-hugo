@@ -51,12 +51,6 @@ unsafe = true
 endLevel = 6
 ordered = false
 startLevel = 2
-[[menu.footer]]
-name = "Chi siamo"
-weight = 8
-[[menu.footer]]
-name = "Über uns"
-weight = 7
 [[menu.main]]
 identifier = "blog"
 name = "Blog"

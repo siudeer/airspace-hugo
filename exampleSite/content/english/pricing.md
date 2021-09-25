@@ -42,9 +42,6 @@ pricing:
 cta:
   enable: true
 menu:
-  footer:
-    name: Pricing
-    weight: 4
   main:
     name: Pricing
     parent: More
