@@ -5,7 +5,7 @@ bg_image: images/feature-bg.jpg
 menu:
   footer:
     name: The Deer
-    weight: 3
+    weight: 4
   main:
     name: Project
     weight: 7
