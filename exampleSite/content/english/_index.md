@@ -47,7 +47,7 @@ service:
 cta:
   enable: true
   bg_image: "/images/dsc09515.JPG"
-  title: ''
+  title: Hit us with your questions
   content: 'Learn more about what we do and feel free to reach out if you have questions
     or would like to contribute. '
   button:
