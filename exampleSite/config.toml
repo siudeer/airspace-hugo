@@ -83,8 +83,8 @@ username = ""
 [params.gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "37.71515"
+map_longitude = "-89.22260"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 attributes = "media='screen'"
