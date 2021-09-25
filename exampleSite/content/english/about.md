@@ -18,22 +18,22 @@ about:
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
-    count: "349"
+    count: '349'
   - icon: ion-ios-flame-outline
     name: Lines Of Code
-    count: "35000"
+    count: '35000'
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
-    count: "70"
+    count: '70'
   - icon: ion-ios-wineglass-outline
     name: Awards Winner
-    count: "10"
+    count: '10'
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
-    count: "75"
+    count: '75'
   - icon: ion-ios-body-outline
     name: Awards Winner
-    count: "20"
+    count: '20'
 features:
   enable: true
   title: We are indepented Design & Development Agency
@@ -102,6 +102,12 @@ mission_vision:
       temporibus eos sequi alias hic nemo.
 cta:
   enable: true
-draft: true
+menu:
+  footer:
+    name: About
+    weight: 1
+  main:
+    name: About
+    weight: 9
 
 ---
