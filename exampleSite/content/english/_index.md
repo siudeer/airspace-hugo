@@ -1,76 +1,79 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/dsc09802.JPG
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: 'The Deer of SIU '
+  content: We follow the movement of deer inhabiting SIU campus
   button:
     enable: true
-    label: Discover Our Project
+    label: Meet the deer
     link: project
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
-  image: images/wrapper-img.png
+  description: ''
+  content: 'Welcome to the Deer of SIU! We are tracking white-tailed deer around the
+    SIU Carbondale campus to understand their movement and share them with SIU community.
+    The GPS collars allow transmission of locations to servers that visualize animal
+    movement, in almost real-time, allowing researchers and biologists to access an
+    animal’s locations without disturbing or recapturing the animal. '
+  image: images/examp5.gif
+  button:
+    enable: true
+    label: See who we are
+    link: Service
 portfolio:
   enable: true
-  bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  bg_image: images/deer_bleu.jpg
+  title: WHERE DO DEER GO ON CAMPUS?
+  content: "Southern Illinois possesses some of the highest abundance of white-tailed
+    deer within the state, and deer can be easily observed around and within the city
+    of Carbondale, including on Southern Illinois University’s campus. Deer behavior
+    has been studied for a long time, but most studies have focused on deer behavior
+    in rural areas, and much less is known about deer behavior and space-use in urban,
+    suburban, and exurban areas.   \n\nWe hope to use these GPS data to better understand
+    deer movement and space-use on SIU’s campus and increase awareness within the
+    SIU community regarding natural resources and scientific research. Please see
+    our FAQs page for more detailed information on how we capture and collar the deer
+    and what we do with all the information we collect. Check out our maps of each
+    individual deer to see their whereabouts and favorite hanging spots.  "
   button:
     enable: true
-    label: View Works
+    label: SEE WHERE THE DEER ARE HANGING!
     link: project
 service:
-  enable: true
+  enable: false
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  bg_image: "/images/dsc09515.JPG"
+  title: Hit us with your questions
+  content: 'Learn more about what we do and feel free to reach out if you have questions
+    or would like to contribute. '
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Get in touch!
     link: contact
 funfacts:
   enable: true
   title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  description: ''
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
+  - icon: ''
+    name: ''
+    count: ''
+  - icon: ion-ios-pint-outline
     name: Cups Of Coffee
-    count: '99'
+    count: "99"
   - icon: ion-ios-glasses-outline
     name: Article Written
-    count: '45'
+    count: "45"
   - icon: ion-ios-compose-outline
     name: Projects Completed
-    count: '125'
+    count: "125"
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: '200'
+    count: "200"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
@@ -90,9 +93,5 @@ funfacts:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-menu:
-  main:
-    name: Home
-    weight: 1
 
 ---
