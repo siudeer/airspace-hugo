@@ -1,6 +1,6 @@
 ---
-title: Service
-description: this is meta description
+title: Who we are
+description: ''
 bg_image: images/feature-bg.jpg
 layout: service
 about:
