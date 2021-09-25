@@ -5,7 +5,7 @@ bg_image: images/feature-bg.jpg
 menu:
   footer:
     name: Project
-    weight: 6
+    weight: 1
   main:
     name: Project
     weight: 18

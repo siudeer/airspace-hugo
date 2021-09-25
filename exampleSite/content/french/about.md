@@ -105,7 +105,7 @@ cta:
 menu:
   footer:
     name: À propos
-    weight: 3
+    weight: 5
   main:
     name: À propos
     weight: 11

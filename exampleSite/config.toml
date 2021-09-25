@@ -55,10 +55,10 @@ ordered = false
 startLevel = 2
 [[menu.footer]]
 name = "Servizio"
-weight = 12
+weight = 13
 [[menu.footer]]
 name = "Progetto"
-weight = 9
+weight = 11
 [[menu.footer]]
 name = "Tariffazione"
 weight = 16
@@ -70,13 +70,13 @@ name = "Contatta"
 weight = 22
 [[menu.footer]]
 name = "Chi siamo"
-weight = 5
+weight = 8
 [[menu.footer]]
 name = "Dienstleistung"
-weight = 11
+weight = 12
 [[menu.footer]]
 name = "Projekt"
-weight = 8
+weight = 10
 [[menu.footer]]
 name = "Preise"
 weight = 15
@@ -88,7 +88,7 @@ name = "Kontakt"
 weight = 21
 [[menu.footer]]
 name = "Über uns"
-weight = 4
+weight = 7
 [[menu.main]]
 name = "Servizio"
 parent = "Più"
