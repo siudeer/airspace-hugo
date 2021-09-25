@@ -6,7 +6,7 @@ paginate = "6"
 summaryLength = "30"
 theme = "airspace-hugo"
 timeZone = "UTC"
-title = "Airspace | Creative Agency Hugo Template"
+title = "The Deer of SIU"
 [languages.de]
 contentDir = "content/german"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle Rechte vorbehalten."
