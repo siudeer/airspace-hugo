@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/dsc09802.JPG
-  bg_overlay: false
+  bg_overlay: true
   title: 'The Deer of SIU '
   content: We follow the movement of deer inhabiting SIU campus
   button:
