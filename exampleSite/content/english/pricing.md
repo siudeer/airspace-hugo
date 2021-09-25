@@ -45,6 +45,6 @@ menu:
   main:
     name: Pricing
     parent: More
-    weight: 3
+    weight: 7
 
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Latest News"
-description: "this is meta description"
-draft: false
-bg_image: "images/feature-bg.jpg"
+title: Latest News
+description: this is meta description
+bg_image: images/feature-bg.jpg
 menu:
   main:
-    name: "Blog"
-    identifier: "blog"
+    name: Findings
+    identifier: blog
     weight: 4
+
 ---

@@ -10,11 +10,6 @@ tags:
 - How to
 - Technology
 type: post
-menu:
-  main:
-    name: Findings
-    identifier: blog
-    weight: 5
 
 ---
 To write out an [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) timestamp in the current language, you can use the `date_l10n` shortcode:
