@@ -90,7 +90,7 @@ weight = 8
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-weight = 9
+weight = 8
 [module.hugoVersion]
 extended = true
 min = "0.87.0"

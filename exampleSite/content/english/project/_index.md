@@ -8,6 +8,6 @@ menu:
     weight: 2
   main:
     name: Project
-    weight: 8
+    weight: 7
 
 ---

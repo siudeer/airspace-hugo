@@ -106,8 +106,5 @@ menu:
   footer:
     name: About
     weight: 7
-  main:
-    name: About
-    weight: 5
 
 ---
