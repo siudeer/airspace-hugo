@@ -12,19 +12,17 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: ''
+  content: 'Welcome to the Deer of SIU! We are tracking white-tailed deer around the
+    SIU Carbondale campus to understand their movement and share them with SIU community.
+    The GPS collars allow transmission of locations to servers that visualize animal
+    movement, in almost real-time, allowing researchers and biologists to access an
+    animal’s locations without disturbing or recapturing the animal. Check out our
+    maps of each individual deer! '
   image: images/examp5.gif
   button:
     enable: true
-    label: Learn more about who we are - link to SWEL PAGE
+    label: See who we are
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
