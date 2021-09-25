@@ -1,5 +1,5 @@
 baseURL = "https://deer-test1.netlify.app/"
-disableLanguages = [""]
+disableLanguages = ["Italiano", "italian", "de-DE"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "6"
