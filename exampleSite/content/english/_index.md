@@ -17,8 +17,7 @@ about:
     SIU Carbondale campus to understand their movement and share them with SIU community.
     The GPS collars allow transmission of locations to servers that visualize animal
     movement, in almost real-time, allowing researchers and biologists to access an
-    animal’s locations without disturbing or recapturing the animal. Check out our
-    maps of each individual deer! '
+    animal’s locations without disturbing or recapturing the animal. '
   image: images/examp5.gif
   button:
     enable: true
