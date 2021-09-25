@@ -8,7 +8,7 @@ layout: faq
 menu:
   footer:
     name: Questions fréquentes
-    weight: 17
+    weight: 18
   main:
     name: Questions fréquentes
     parent: Plus

@@ -44,7 +44,7 @@ cta:
 menu:
   footer:
     name: Pricing
-    weight: 4
+    weight: 5
   main:
     name: Pricing
     parent: More

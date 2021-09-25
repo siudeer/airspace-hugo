@@ -44,7 +44,7 @@ cta:
 menu:
   footer:
     name: Tarification
-    weight: 14
+    weight: 15
   main:
     name: Tarification
     parent: Plus

@@ -55,40 +55,40 @@ ordered = false
 startLevel = 2
 [[menu.footer]]
 name = "Servizio"
-weight = 13
+weight = 14
 [[menu.footer]]
 name = "Progetto"
-weight = 11
-[[menu.footer]]
-name = "Tariffazione"
-weight = 16
-[[menu.footer]]
-name = "Domande frequenti"
-weight = 19
-[[menu.footer]]
-name = "Contatta"
-weight = 22
-[[menu.footer]]
-name = "Chi siamo"
-weight = 8
-[[menu.footer]]
-name = "Dienstleistung"
 weight = 12
 [[menu.footer]]
+name = "Tariffazione"
+weight = 17
+[[menu.footer]]
+name = "Domande frequenti"
+weight = 20
+[[menu.footer]]
+name = "Contatta"
+weight = 23
+[[menu.footer]]
+name = "Chi siamo"
+weight = 9
+[[menu.footer]]
+name = "Dienstleistung"
+weight = 13
+[[menu.footer]]
 name = "Projekt"
-weight = 10
+weight = 11
 [[menu.footer]]
 name = "Preise"
-weight = 15
+weight = 16
 [[menu.footer]]
 name = "Häufige Fragen"
-weight = 18
+weight = 19
 [[menu.footer]]
 name = "Kontakt"
-weight = 21
+weight = 22
 [[menu.footer]]
 name = "Über uns"
-weight = 7
+weight = 8
 [[menu.main]]
 name = "Servizio"
 parent = "Più"
