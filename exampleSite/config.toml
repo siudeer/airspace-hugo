@@ -1,4 +1,4 @@
-baseURL = "http://deerofsiu.netlify.com"
+baseURL = "https://deer-test1.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
@@ -71,9 +71,9 @@ location = "**Spatial Wildlife Ecology Lab**  Southern Illinois University, Carb
 phone = "6184536946"
 [params.contact.form]
 action = "#"
-enable = true
+enable = false
 success_image = "images/paper-plane.svg"
-use_netlify = true
+use_netlify = false
 [params.cookies]
 enable = true
 expire_days = 2
@@ -81,7 +81,7 @@ expire_days = 2
 enable = true
 username = ""
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "37.71515"
 map_longitude = "-89.22260"
