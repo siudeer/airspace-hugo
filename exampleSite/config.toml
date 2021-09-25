@@ -51,10 +51,6 @@ unsafe = true
 endLevel = 6
 ordered = false
 startLevel = 2
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-weight = 6
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
@@ -67,7 +63,7 @@ image = "images/logo-1.png"
 logo = "images/logo-1.png"
 logo_width = "250px"
 [params.contact]
-address_descriptors = true
+address_descriptors = false
 email = "deer@siu.edu"
 location = "**Spatial Wildlife Ecology Lab**  Southern Illinois University, Carbondale, IL, 62901"
 phone = "6184536946"
