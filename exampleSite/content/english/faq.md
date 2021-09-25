@@ -12,7 +12,7 @@ menu:
   main:
     name: FAQ
     parent: More
-    weight: 6
+    weight: 4
 
 ---
 ### Welcome to Airspace!
