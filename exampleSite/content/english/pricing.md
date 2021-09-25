@@ -41,10 +41,5 @@ pricing:
     - 24/7 Tech Support
 cta:
   enable: true
-menu:
-  main:
-    name: Pricing
-    parent: More
-    weight: 7
 
 ---
