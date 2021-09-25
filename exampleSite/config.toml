@@ -51,6 +51,10 @@ unsafe = true
 endLevel = 6
 ordered = true
 startLevel = 2
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+weight = 6
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
