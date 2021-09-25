@@ -61,7 +61,7 @@ home = ["HTML"]
 [params]
 author = "SWEL"
 description = "This is meta description"
-image = "images/logo.png"
+image = "images/logo-1.png"
 logo = "images/logo-1.png"
 logo_width = "150px"
 [params.contact]
