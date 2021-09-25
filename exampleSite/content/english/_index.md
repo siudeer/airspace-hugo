@@ -23,6 +23,7 @@ about:
   button:
     enable: true
     label: See who we are
+    link: service
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
