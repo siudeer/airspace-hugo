@@ -1,7 +1,6 @@
 +++
 bg_image = "images/feature-bg.jpg"
 description = "this is meta description"
-draft = true
 layout = "about"
 title = "About Our Company-(copy)"
 [about]
