@@ -47,10 +47,9 @@ service:
 cta:
   enable: true
   bg_image: "/images/dsc09515.JPG"
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: ''
+  content: 'Learn more about what we do and feel free to reach out if you have questions
+    or would like to contribute. '
   button:
     enable: true
     label: Get in touch!
