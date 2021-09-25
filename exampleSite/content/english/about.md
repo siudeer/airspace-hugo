@@ -108,6 +108,6 @@ menu:
     weight: 7
   main:
     name: About
-    weight: 9
+    weight: 5
 
 ---

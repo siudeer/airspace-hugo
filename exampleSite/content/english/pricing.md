@@ -48,6 +48,6 @@ menu:
   main:
     name: Pricing
     parent: More
-    weight: 10
+    weight: 6
 
 ---

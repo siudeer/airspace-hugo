@@ -9,10 +9,6 @@ menu:
   footer:
     name: Questions fréquentes
     weight: 18
-  main:
-    name: Questions fréquentes
-    parent: Plus
-    weight: 19
 
 ---
 ### Welcome to Airspace!

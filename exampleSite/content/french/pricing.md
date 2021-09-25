@@ -45,9 +45,5 @@ menu:
   footer:
     name: Tarification
     weight: 15
-  main:
-    name: Tarification
-    parent: Plus
-    weight: 12
 
 ---

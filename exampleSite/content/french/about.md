@@ -106,8 +106,5 @@ menu:
   footer:
     name: À propos
     weight: 6
-  main:
-    name: À propos
-    weight: 11
 
 ---

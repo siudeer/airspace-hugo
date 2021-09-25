@@ -6,8 +6,5 @@ menu:
   footer:
     name: Projet
     weight: 10
-  main:
-    name: Projet
-    weight: 20
 
 ---
