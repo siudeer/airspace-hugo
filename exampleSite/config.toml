@@ -54,7 +54,7 @@ startLevel = 2
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-weight = 6
+weight = 2
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
