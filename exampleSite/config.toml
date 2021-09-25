@@ -63,7 +63,7 @@ author = "SWEL"
 description = "This is meta description"
 image = "images/logo-1.png"
 logo = "images/logo-1.png"
-logo_width = "300px"
+logo_width = "250px"
 [params.contact]
 address_descriptors = true
 email = "deer@siu.edu"
