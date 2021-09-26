@@ -13,6 +13,7 @@ pricing:
     services:
     - Help with purchasing collars
     - Assist with training of students
+    - Something about outreach
   - content: Get to assist with a capture and collaring of a deer
     link: https://wildlife.siu.edu/giving/
     services:
