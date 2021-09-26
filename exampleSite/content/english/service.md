@@ -42,8 +42,12 @@ featured_service:
 service:
   enable: true
   title: Our Partners
-  description: Shout out to our partners who are making this project feasible
+  description: Links to our collaborators and partners who are making this project
+    feasible
   service_item:
+  - icon: ion-laptop
+    name: Spatial Wildlife Ecology Lab
+    content: https://bastillerousseau.wixsite.com/research
   - icon: ion-social-tux
     name: Cooperative Wildlife Research Laboratory
     content: https://wildlife.siu.edu/
