@@ -13,10 +13,12 @@ pricing:
     services:
     - Help with purchasing collars
     - Keep training of students
-  - content: ''
-    link: ''
-    services: ''
-    price: "500"
+  - content: Any contributions can help us keeping this project going
+    link: https://wildlife.siu.edu/giving/
+    services:
+    - Assist with training students
+    - Help with purchasing collas
+    price: "$500"
 cta:
   enable: true
 
