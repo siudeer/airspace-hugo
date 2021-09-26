@@ -41,9 +41,7 @@ featured_service:
 service:
   enable: true
   title: Our Partners
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: We want to thanks our partners who are making this project feasible
   service_item:
   - icon: ion-leaf
     name: Cooperative Research Laboratory
