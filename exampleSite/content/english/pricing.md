@@ -7,12 +7,16 @@ pricing:
   enable: true
   pricing_table:
   - name: Any amount
-    price: ''
+    price: "<$500"
     content: Any contributions can help us keeping this project going
     link: https://wildlife.siu.edu/giving/
     services:
     - Help with purchasing collars
     - Keep training of students
+  - content: ''
+    link: ''
+    services: ''
+    price: "500"
 cta:
   enable: true
 
