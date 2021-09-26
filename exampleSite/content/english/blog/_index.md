@@ -5,10 +5,10 @@ bg_image: images/feature-bg.jpg
 menu:
   footer:
     name: Findings
-    weight: 7
+    weight: 19
   main:
     name: Findings
     identifier: blog
-    weight: 17
+    weight: 29
 
 ---
