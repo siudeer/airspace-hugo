@@ -63,7 +63,7 @@ funfacts:
   - icon: ion-ios-male-outline
     name: Bucks collared
     count: "4"
-  - icon: images/favicon.png
+  - icon: ion-ios-compose-outline
     name: Does captured
     count: "3"
   - icon: ion-ios-compose-outline
