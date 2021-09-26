@@ -44,7 +44,7 @@ cta:
 menu:
   main:
     parent: More
-    weight: 7
+    weight: 6
   footer:
     weight: 4
 

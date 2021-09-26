@@ -6,6 +6,6 @@ menu:
   main:
     name: Findings
     identifier: blog
-    weight: 4
+    weight: 3
 
 ---
