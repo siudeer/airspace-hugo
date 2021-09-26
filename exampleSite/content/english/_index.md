@@ -66,7 +66,7 @@ funfacts:
   - icon: ion-female
     name: Does collared
     count: "3"
-  - icon: ion-ios-compose-outline
+  - icon: ion-location
     name: GPS locations acquired
     count: "7000"
   - icon: ion-ios-timer-outline
