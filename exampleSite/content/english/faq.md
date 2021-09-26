@@ -8,7 +8,7 @@ layout: faq
 menu:
   footer:
     name: FAQ
-    weight: 2
+    weight: 3
   main:
     name: FAQ
     parent: More

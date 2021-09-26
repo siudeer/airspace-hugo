@@ -46,6 +46,6 @@ menu:
     parent: More
     weight: 7
   footer:
-    weight: 3
+    weight: 4
 
 ---
