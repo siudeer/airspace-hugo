@@ -21,7 +21,7 @@ about:
     label: Learn more
     link: https://bastillerousseau.wixsite.com/research
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Interface Design
     icon: ion-erlenmeyer-flask
