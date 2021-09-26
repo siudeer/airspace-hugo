@@ -66,12 +66,12 @@ funfacts:
   - icon: ion-female
     name: Does collared
     count: "3"
+  - icon: ion-radio-waves
+    name: Collar actives
+    count: "7"
   - icon: ion-location
     name: GPS locations acquired
     count: "7000"
-  - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
   testimonial_slider:
   - name: Deer number 1
     image: images/clients/avater-1.jpg
