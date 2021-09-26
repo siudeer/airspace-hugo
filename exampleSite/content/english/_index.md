@@ -20,9 +20,9 @@ about:
     animal’s locations without disturbing or recapturing the animal. '
   image: images/examp5.gif
   button:
-    enable: false
-    label: See who we are
-    link: Who we are
+    enable: true
+    label: project
+    link: project
   funfacts: []
 portfolio:
   enable: true
