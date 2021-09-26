@@ -67,8 +67,8 @@ funfacts:
     name: Does captured
     count: "3"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: GPS locations acquired
+    count: "7000"
   - icon: ion-ios-timer-outline
     name: Combined Projects
     count: "200"
