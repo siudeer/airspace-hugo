@@ -45,8 +45,7 @@ service:
   service_item:
   - icon: ion-leaf
     name: Cooperative Research Laboratory
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: "[Test] (https://bastillerousseau.wixsite.com/research)"
   - icon: ion-planet
     name: School of Biological Sciences
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
