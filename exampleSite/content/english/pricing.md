@@ -19,6 +19,7 @@ pricing:
     - Assist with training students
     - Help with purchasing collas
     price: "$500"
+    name: Premium
 cta:
   enable: true
 
