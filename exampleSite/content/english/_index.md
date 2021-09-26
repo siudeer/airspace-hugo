@@ -60,9 +60,6 @@ funfacts:
   title: Fun Facts About Us
   description: ''
   funfact_item:
-  - icon: ''
-    name: ''
-    count: ''
   - icon: ion-ios-pint-outline
     name: Cups Of Coffee
     count: "99"
@@ -76,12 +73,10 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Deer number 1
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Energetic doe
+    content: 'I like green stuff! '
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
