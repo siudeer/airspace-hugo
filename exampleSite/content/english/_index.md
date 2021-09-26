@@ -60,6 +60,9 @@ funfacts:
   title: Fun Facts About Us
   description: ''
   funfact_item:
+  - icon: ion-male
+    name: Bucks collared
+    count: "4"
   - icon: ion-female
     name: Does collared
     count: "3"
