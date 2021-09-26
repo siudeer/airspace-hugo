@@ -64,7 +64,7 @@ funfacts:
     name: Bucks collared
     count: "4"
   - icon: ion-ios-compose-outline
-    name: Does captured
+    name: Does collared
     count: "3"
   - icon: ion-ios-compose-outline
     name: GPS locations acquired
