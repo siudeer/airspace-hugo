@@ -63,6 +63,8 @@ service:
 cta:
   enable: true
 menu:
+  footer:
+    weight: 29
   main:
     weight: 34
 
