@@ -43,7 +43,6 @@ cta:
   enable: true
 menu:
   main:
-    parent: More
     weight: 5
   footer:
     weight: 4
