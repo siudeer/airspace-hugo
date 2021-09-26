@@ -51,7 +51,7 @@ weight = "5"
 unsafe = true
 [markup.tableOfContents]
 endLevel = 6
-ordered = true
+ordered = false
 startLevel = 2
 [module.hugoVersion]
 extended = true
