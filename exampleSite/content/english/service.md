@@ -41,11 +41,11 @@ featured_service:
 service:
   enable: true
   title: Our Partners
-  description: We want to thanks our partners who are making this project feasible
+  description: Shout out to our partners who are making this project feasible
   service_item:
   - icon: ion-leaf
     name: Cooperative Wildlife Research Laboratory
-    content: "[Test] (https://bastillerousseau.wixsite.com/research)"
+    content: https://wildlife.siu.edu/
   - icon: ion-planet
     name: School of Biological Sciences
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
