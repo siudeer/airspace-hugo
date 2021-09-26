@@ -48,8 +48,7 @@ service:
     content: https://wildlife.siu.edu/
   - icon: ion-planet
     name: School of Biological Sciences
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: https://biologicalsciences.siu.edu/
   - icon: ion-earth
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
