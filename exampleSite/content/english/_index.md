@@ -61,7 +61,7 @@ funfacts:
   description: ''
   funfact_item:
   - icon: ion-ios-male-outline
-    name: Number of bucks collared
+    name: Bucks collared
     count: "4"
   - icon: ion-ios-female-outline
     name: Does captured
