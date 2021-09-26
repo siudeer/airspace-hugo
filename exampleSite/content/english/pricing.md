@@ -7,17 +7,17 @@ pricing:
   enable: true
   pricing_table:
   - name: Basic
-    price: ''
+    price: Any amount
     content: Any contributions can help us keeping this project going
     link: https://wildlife.siu.edu/giving/
     services:
     - Help with purchasing collars
-    - Keep training of students
-  - content: Any contributions can help us keeping this project going
+    - Assist with training of students
+  - content: Get to assist with a capture and collaring of a deer
     link: https://wildlife.siu.edu/giving/
     services:
+    - Help with purchasing collars
     - Assist with training students
-    - Help with purchasing collas
     price: "$500"
     name: Premium
 cta:
