@@ -60,18 +60,18 @@ funfacts:
   title: Fun Facts About Us
   description: ''
   funfact_item:
-  - icon: ion-ios-pint-outline
-    name: Cups Of Coffee
-    count: '99'
+  - icon: ion-ios-male-outline
+    name: Number of bucks collared
+    count: "4"
   - icon: ion-ios-glasses-outline
     name: Article Written
-    count: '45'
+    count: "45"
   - icon: ion-ios-compose-outline
     name: Projects Completed
-    count: '125'
+    count: "125"
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: '200'
+    count: "200"
   testimonial_slider:
   - name: Deer number 1
     image: images/clients/avater-1.jpg
@@ -89,9 +89,5 @@ funfacts:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-menu:
-  main:
-    name: Home
-    weight: 5
 
 ---
