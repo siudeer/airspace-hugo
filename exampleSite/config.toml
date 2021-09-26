@@ -50,7 +50,7 @@ weight = "5"
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
-endLevel = 6
+endLevel = "10"
 ordered = false
 startLevel = 2
 [module.hugoVersion]
