@@ -6,8 +6,8 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: Any amount
-    price: "<$500"
+  - name: Basic
+    price: ''
     content: Any contributions can help us keeping this project going
     link: https://wildlife.siu.edu/giving/
     services:
