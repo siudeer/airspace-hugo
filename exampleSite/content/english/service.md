@@ -19,7 +19,7 @@ about:
   button:
     enable: true
     label: Learn more
-    link: https://bastillerousseau.wixsite.com/research
+    link: project
 featured_service:
   enable: false
   service_item:
