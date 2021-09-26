@@ -5,7 +5,7 @@ bg_image: images/feature-bg.jpg
 layout: service
 about:
   enable: true
-  title: [Spatial Wildlife Ecology Lab at SIU] (https://bastillerousseau.wixsite.com/research)
+  title: Spatial Wildlife Ecology Lab at SIU
   content: "We are a group of researchers interested in understanding how behaviors
     such as movement affect animal populations and other species. We study a variety
     of species found in Illinois (white-tailed deer, bobcat, coyotes, and beavers)
