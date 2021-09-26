@@ -1,7 +1,7 @@
 ---
 title: Contribute
 description: Please help us keeping this project going
-bg_image: images/feature-bg.jpg
+bg_image: images/picture8.jpg
 layout: pricing
 pricing:
   enable: true
