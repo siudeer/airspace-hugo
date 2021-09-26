@@ -1,22 +1,21 @@
 ---
 title: Who we are
-description: ''
+description: 'and what we do! '
 bg_image: images/feature-bg.jpg
 layout: service
 about:
   enable: true
-  title: Creative UX/UI Design Agency
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  title: Spatial Wildlife Ecology Lab
+  content: We are interested in determining how spatial and behavioral processes such
+    as movement and habitat selection scale up to affect the demography and distribution
+    of multiple sympatric species. Our research is quantitative and tackles both fundamental
+    and applied problems. We answer these questions using a variety of systems and
+    approaches.
   image: images/company/company-group-pic.jpg
+  button:
+    enable: true
+    label: Learn more
+    link: https://bastillerousseau.wixsite.com/research
 featured_service:
   enable: true
   service_item:
@@ -76,10 +75,5 @@ service:
       tempor incididunt ut
 cta:
   enable: true
-menu:
-  main:
-    weight: 15
-  footer:
-    weight: 4
 
 ---
