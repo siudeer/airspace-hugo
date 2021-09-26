@@ -6,14 +6,13 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: Basic
+  - name: Any amount
     price: ''
     content: Any contributions can help us keeping this project going
     link: https://wildlife.siu.edu/giving/
     services:
-    - Unlimited agents
-    - Email Marketing
-    - 24/7 Tech Support
+    - Help with purchasing collars
+    - Keep training of students
 cta:
   enable: true
 
