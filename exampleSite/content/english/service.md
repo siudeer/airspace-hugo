@@ -43,18 +43,18 @@ service:
   title: Our Partners
   description: Shout out to our partners who are making this project feasible
   service_item:
-  - icon: ion-radio-waves
-    name: Lotek Wireless
-    content: https://www.lotek.com/
-  - icon: ion-leaf
+  - icon: ion-social-tux
     name: Cooperative Wildlife Research Laboratory
     content: https://wildlife.siu.edu/
-  - icon: ion-planet
+  - icon: ion-leaf
     name: School of Biological Sciences
     content: https://biologicalsciences.siu.edu/
   - icon: ion-earth
     name: SIU Foundation
     content: https://siuf.org/
+  - icon: ion-radio-waves
+    name: Lotek Wireless
+    content: https://www.lotek.com/
 cta:
   enable: true
 
