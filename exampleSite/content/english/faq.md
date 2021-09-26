@@ -6,12 +6,12 @@ lastmod: '2021-04-01T00:00:00.000+00:00'
 bg_image: "/images/dsc09538.JPG"
 layout: faq
 menu:
-  footer:
-    name: FAQ
-    weight: 3
   main:
     name: FAQ
-    weight: 6
+    weight: 20
+  footer:
+    name: FAQ
+    weight: 9
 
 ---
 ### Welcome to Airspace!
