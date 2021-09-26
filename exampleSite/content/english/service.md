@@ -40,7 +40,7 @@ featured_service:
       impedit repudiandae omnis est temporibus.
 service:
   enable: true
-  title: Our Services
+  title: Our Partners
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
