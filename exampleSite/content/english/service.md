@@ -43,6 +43,9 @@ service:
   title: Our Partners
   description: Shout out to our partners who are making this project feasible
   service_item:
+  - icon: ''
+    name: Lotek Wireless
+    content: https://www.lotek.com/
   - icon: ion-leaf
     name: Cooperative Wildlife Research Laboratory
     content: https://wildlife.siu.edu/
