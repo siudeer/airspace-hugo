@@ -5,12 +5,16 @@ bg_image: images/feature-bg.jpg
 layout: service
 about:
   enable: true
-  title: Spatial Wildlife Ecology Lab
-  content: We are interested in determining how spatial and behavioral processes such
-    as movement and habitat selection scale up to affect the demography and distribution
-    of multiple sympatric species. Our research is quantitative and tackles both fundamental
-    and applied problems. We answer these questions using a variety of systems and
-    approaches.
+  title: Spatial Wildlife Ecology Lab at SIU
+  content: "We are a group of researchers interested in understanding how behaviors
+    such as movement affect animal populations and other species. We study a variety
+    of species found in Illinois (white-tailed deer, bobcat, coyotes, and beavers)
+    but also in the USA and worldwide (caribou, mule deer, elk, elephant, and giant
+    tortoises). While our research centered around animal movement, we focus on various
+    implications of movement for animal such as predator-prey interactions, migration,
+    disease spread, and impact of human activities on their movement. Our research
+    strive at improving our understanding of these species ecology but also finding
+    ways of ensuring a safe future for these species.  \n"
   image: images/company/company-group-pic.jpg
   button:
     enable: true
