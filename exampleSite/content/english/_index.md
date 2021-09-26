@@ -11,13 +11,13 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
+  title: Welcome to the Deer of SIU!
   description: ''
-  content: 'Welcome to the Deer of SIU! We are tracking white-tailed deer around the
-    SIU Carbondale campus to understand their movement and share them with SIU community.
-    The GPS collars allow transmission of locations to servers that visualize animal
-    movement, in almost real-time, allowing researchers and biologists to access an
-    animal’s locations without disturbing or recapturing the animal. '
+  content: " We are tracking white-tailed deer around the SIU Carbondale campus to
+    understand their movement and share them with SIU community. The GPS collars allow
+    transmission of locations to servers that visualize animal movement, in almost
+    real-time, allowing researchers and biologists to access an animal’s locations
+    without disturbing or recapturing the animal. "
   image: images/examp5.gif
   button:
     enable: true
