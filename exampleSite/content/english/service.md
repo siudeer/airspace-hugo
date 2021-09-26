@@ -14,7 +14,7 @@ about:
     implications of movement for animal such as predator-prey interactions, migration,
     disease spread, and impact of human activities on their movement. Our research
     strive at improving our understanding of these species ecology but also finding
-    ways of ensuring a safe future for these species. [Learn more] (https://bastillerousseau.wixsite.com/research)  "
+    ways of ensuring a safe future for these species."
   image: images/swel_pics.jpg
   button:
     enable: true
