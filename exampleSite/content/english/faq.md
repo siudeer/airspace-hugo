@@ -11,7 +11,6 @@ menu:
     weight: 3
   main:
     name: FAQ
-    parent: More
     weight: 6
 
 ---
