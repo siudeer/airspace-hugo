@@ -1,7 +1,7 @@
 ---
 title: Who we are
 description: 'and what we do! '
-bg_image: images/feature-bg.jpg
+bg_image: "/images/picture2.jpg"
 layout: service
 about:
   enable: true
