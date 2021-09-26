@@ -81,6 +81,6 @@ menu:
     weight: 2
   main:
     parent: More
-    weight: 4
+    weight: 2
 
 ---
