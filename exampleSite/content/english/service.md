@@ -45,7 +45,7 @@ service:
   description: Links to our collaborators and partners who are making this project
     feasible
   service_item:
-  - icon: ion-laptop
+  - icon: ion-ios-monitor
     name: Spatial Wildlife Ecology Lab
     content: https://bastillerousseau.wixsite.com/research
   - icon: ion-ios-paw
