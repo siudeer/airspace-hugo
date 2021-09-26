@@ -50,9 +50,9 @@ weight = "5"
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
-endLevel = "10"
+endLevel = "2"
 ordered = false
-startLevel = 2
+startLevel = "1"
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
