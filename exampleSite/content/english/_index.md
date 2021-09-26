@@ -41,8 +41,8 @@ portfolio:
     individual deer to see their whereabouts and favorite hanging spots.  "
   button:
     enable: true
-    label: SEE WHERE THE DEER ARE HANGING!
-    link: project
+    label: LEARN MORE ON WHO WE ARE
+    link: service
 service:
   enable: false
 cta:
