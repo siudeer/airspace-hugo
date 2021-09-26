@@ -63,9 +63,9 @@ funfacts:
   - icon: ion-ios-male-outline
     name: Number of bucks collared
     count: "4"
-  - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+  - icon: ion-ios-female-outline
+    name: Does captured
+    count: "3"
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
