@@ -50,9 +50,8 @@ service:
     name: School of Biological Sciences
     content: https://biologicalsciences.siu.edu/
   - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: SIU Foundation
+    content: https://siuf.org/
 cta:
   enable: true
 
