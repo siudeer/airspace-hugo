@@ -15,7 +15,7 @@ about:
     disease spread, and impact of human activities on their movement. Our research
     strive at improving our understanding of these species ecology but also finding
     ways of ensuring a safe future for these species.  \n"
-  image: images/company/company-group-pic.jpg
+  image: images/swel_pics.jpg
   button:
     enable: true
     label: Learn more
