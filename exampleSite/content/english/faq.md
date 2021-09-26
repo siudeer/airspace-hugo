@@ -8,10 +8,10 @@ layout: faq
 menu:
   main:
     name: FAQ
-    weight: 32
+    weight: 46
   footer:
     name: FAQ
-    weight: 21
+    weight: 33
 
 ---
 ### Welcome to Airspace!

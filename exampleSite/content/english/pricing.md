@@ -22,5 +22,8 @@ pricing:
     name: Premium
 cta:
   enable: true
+menu:
+  main:
+    weight: 48
 
 ---

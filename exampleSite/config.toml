@@ -61,13 +61,13 @@ name = "Progetto"
 weight = 6
 [[menu.footer]]
 name = "Tariffazione"
-weight = 11
+weight = 12
 [[menu.footer]]
 name = "Domande frequenti"
-weight = 14
+weight = 15
 [[menu.footer]]
 name = "Contatta"
-weight = 17
+weight = 18
 [[menu.footer]]
 name = "Chi siamo"
 weight = 3
@@ -79,52 +79,88 @@ name = "Projekt"
 weight = 5
 [[menu.footer]]
 name = "Preise"
-weight = 10
+weight = 11
 [[menu.footer]]
 name = "Häufige Fragen"
-weight = 13
+weight = 14
 [[menu.footer]]
 name = "Kontakt"
-weight = 16
+weight = 17
 [[menu.footer]]
 name = "Über uns"
 weight = 2
 [[menu.footer]]
 name = "Servizio"
-weight = 20
+weight = 21
 [[menu.footer]]
 name = "Progetto"
-weight = 15
+weight = 16
 [[menu.footer]]
 name = "Tariffazione"
-weight = 24
+weight = 23
 [[menu.footer]]
 name = "Domande frequenti"
 weight = 26
 [[menu.footer]]
 name = "Contatta"
-weight = 28
+weight = 29
 [[menu.footer]]
 name = "Chi siamo"
 weight = 7
 [[menu.footer]]
 name = "Dienstleistung"
-weight = 18
+weight = 20
 [[menu.footer]]
 name = "Projekt"
-weight = 12
+weight = 13
 [[menu.footer]]
 name = "Preise"
-weight = 23
+weight = 22
 [[menu.footer]]
 name = "Häufige Fragen"
 weight = 25
 [[menu.footer]]
 name = "Kontakt"
-weight = 27
+weight = 28
 [[menu.footer]]
 name = "Über uns"
 weight = 4
+[[menu.footer]]
+name = "Servizio"
+weight = 32
+[[menu.footer]]
+name = "Progetto"
+weight = 27
+[[menu.footer]]
+name = "Tariffazione"
+weight = 35
+[[menu.footer]]
+name = "Domande frequenti"
+weight = 37
+[[menu.footer]]
+name = "Contatta"
+weight = 39
+[[menu.footer]]
+name = "Chi siamo"
+weight = 19
+[[menu.footer]]
+name = "Dienstleistung"
+weight = 30
+[[menu.footer]]
+name = "Projekt"
+weight = 24
+[[menu.footer]]
+name = "Preise"
+weight = 34
+[[menu.footer]]
+name = "Häufige Fragen"
+weight = 36
+[[menu.footer]]
+name = "Kontakt"
+weight = 38
+[[menu.footer]]
+name = "Über uns"
+weight = 10
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
@@ -146,7 +182,7 @@ parent = "Più"
 weight = 13
 [[menu.main]]
 name = "Contatta"
-weight = 19
+weight = 20
 [[menu.main]]
 name = "Chi siamo"
 weight = 8
@@ -170,21 +206,21 @@ parent = "Mehr"
 weight = 11
 [[menu.main]]
 name = "Kontakt"
-weight = 18
+weight = 19
 [[menu.main]]
 name = "Über uns"
 weight = 6
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-weight = 28
+weight = 30
 [[menu.main]]
 name = "Servizio"
 parent = "Più"
 weight = 15
 [[menu.main]]
 name = "Progetto"
-weight = 27
+weight = 28
 [[menu.main]]
 name = "Tariffazione"
 parent = "Più"
@@ -192,10 +228,10 @@ weight = 23
 [[menu.main]]
 name = "Domande frequenti"
 parent = "Più"
-weight = 26
+weight = 27
 [[menu.main]]
 name = "Contatta"
-weight = 31
+weight = 33
 [[menu.main]]
 name = "Chi siamo"
 weight = 22
@@ -208,7 +244,7 @@ parent = "Mehr"
 weight = 5
 [[menu.main]]
 name = "Projekt"
-weight = 25
+weight = 26
 [[menu.main]]
 name = "Preise"
 parent = "Mehr"
@@ -216,13 +252,62 @@ weight = 21
 [[menu.main]]
 name = "Häufige Fragen"
 parent = "Mehr"
-weight = 24
+weight = 25
 [[menu.main]]
 name = "Kontakt"
-weight = 30
+weight = 32
 [[menu.main]]
 name = "Über uns"
+weight = 18
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+weight = 42
+[[menu.main]]
+name = "Servizio"
+parent = "Più"
+weight = 29
+[[menu.main]]
+name = "Progetto"
+weight = 41
+[[menu.main]]
+name = "Tariffazione"
+parent = "Più"
+weight = 37
+[[menu.main]]
+name = "Domande frequenti"
+parent = "Più"
+weight = 40
+[[menu.main]]
+name = "Contatta"
+weight = 45
+[[menu.main]]
+name = "Chi siamo"
+weight = 36
+[[menu.main]]
+name = "Pagina iniziale"
+weight = 24
+[[menu.main]]
+name = "Dienstleistung"
+parent = "Mehr"
 weight = 17
+[[menu.main]]
+name = "Projekt"
+weight = 39
+[[menu.main]]
+name = "Preise"
+parent = "Mehr"
+weight = 35
+[[menu.main]]
+name = "Häufige Fragen"
+parent = "Mehr"
+weight = 38
+[[menu.main]]
+name = "Kontakt"
+weight = 44
+[[menu.main]]
+name = "Über uns"
+weight = 31
 [[menu.main]]
 name = "Startseite"
 weight = 1
