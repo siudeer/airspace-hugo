@@ -27,7 +27,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/deer_bleu.jpg
-  title: WHERE DO DEER GO ON CAMPUS?
+  title: BACKGROUND
   content: "Southern Illinois possesses some of the highest abundance of white-tailed
     deer within the state, and deer can be easily observed around and within the city
     of Carbondale, including on Southern Illinois University’s campus. Deer behavior
