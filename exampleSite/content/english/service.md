@@ -48,7 +48,7 @@ service:
   - icon: ion-laptop
     name: Spatial Wildlife Ecology Lab
     content: https://bastillerousseau.wixsite.com/research
-  - icon: ion-social-tux
+  - icon: ion-ios-paw
     name: Cooperative Wildlife Research Laboratory
     content: https://wildlife.siu.edu/
   - icon: ion-leaf
