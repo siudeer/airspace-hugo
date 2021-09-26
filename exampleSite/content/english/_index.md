@@ -22,7 +22,7 @@ about:
   button:
     enable: true
     label: See who we are
-    link: Service
+    link: Who we are
   funfacts: []
 portfolio:
   enable: true
