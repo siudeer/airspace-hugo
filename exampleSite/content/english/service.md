@@ -43,7 +43,7 @@ service:
   title: Our Partners
   description: Shout out to our partners who are making this project feasible
   service_item:
-  - icon: ''
+  - icon: ion-radio-waves
     name: Lotek Wireless
     content: https://www.lotek.com/
   - icon: ion-leaf
