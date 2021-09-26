@@ -44,7 +44,7 @@ service:
   description: We want to thanks our partners who are making this project feasible
   service_item:
   - icon: ion-leaf
-    name: Cooperative Research Laboratory
+    name: Cooperative Wildlife Research Laboratory
     content: "[Test] (https://bastillerousseau.wixsite.com/research)"
   - icon: ion-planet
     name: School of Biological Sciences
