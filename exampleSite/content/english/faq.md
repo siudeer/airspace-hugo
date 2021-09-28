@@ -22,13 +22,6 @@ Captures are made by graduate students using clover traps on SIU’s campus in a
 
 Bobcats and coyotes have been trapped and collared each winter since 2018 at SIU’s Touch of Nature Environmental Center, located south of campus, as well as on public land around Lake Shelbyville, located about 2.5 hours north of Carbondale. Bobcats are trapped using cage traps, which involves a bobcat entering a cage and triggering a mechanism which closes the door. Coyotes are trapped using foothold traps, which hold the coyote’s paw in place using rubber jaws after they step on the trigger hidden in the ground. Both trapping methods are very safe and leave the animal unharmed. Once a bobcat or coyote is trapped, the animal is sedated, our wildlife crew measures, weighs, collects demographic information, and fits the animal with a GPS collar, similar in design but smaller than the ones we put on deer. The predator collars drop off after one year. Once the animal’s sedation is reversed, it is free to go and collect location information for our GPS database! 
 
-#### 3. Data We Collect
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
-
 #### 3. What do we plan on doing with this research? Why is this study important?
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
