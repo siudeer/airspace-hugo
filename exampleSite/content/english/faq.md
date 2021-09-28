@@ -14,6 +14,17 @@ menu:
     weight: 33
 
 ---
+### Welcome to Airspace!
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
+repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
+nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
+magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
+nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
+dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
+quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
+obcaecati maiores voluptates.
+
 #### 1. How do you capture, collar, and process the deer?
 
 Captures are made by graduate students using clover traps on SIU’s campus in areas where deer are most likely to be found (Thompson Woods, around Campus Lake, and on the west side of campus) in late April and early May. Corn is used to attract deer into the traps, where the traps are checked twice daily. When a deer is captured, the deer is immobilized using a fully reversible drug (BAM). Each captured deer is fitted with a GPS collar which has a battery life of approximately 2 years. These collars also have a dropoff mechanism that is programmed to release the collar from the animal after that period. The collars weigh less than 1 lb meaning that these collars weigh less than 1% of deer body mass. We capture deer in a similar manner at other sites around Illinois. 
