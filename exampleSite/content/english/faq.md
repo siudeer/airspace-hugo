@@ -17,22 +17,21 @@ Bobcats and coyotes have been trapped and collared each winter since 2018 at SIU
 
 #### 3. What do we plan on doing with this research? Why is this study important?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+The Deer of SIU project accomplishes multiple goals. First, tracking deer on campus is helping us better understand their movement in an urban landscape, especially in a landscape with a lot of changes in human presence (for example during the summer semester vs fall and spring). Given the constant expansion of urban areas, understanding how animals adjust their behavior to humans is becoming increasingly important. Second, conducting wildlife research is often extremely expensive and it is therefore difficult for students to get hands-on experience with wildlife research. This project will help train undergraduate students in the zoology program by giving them the opportunity to be involved in field operations and with using the data to conduct independent research projects. Lastly, this project also aims at increasing the appreciation for nature and wildlife of the broader SIU community by sharing with them interesting findings on the charismatic animal sharing the campus with them.  
 
 #### 4. Are the captures stressful for the deer?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam 
+Captures can be stressful for the deer, but we try to reduce as much as possible the level of stress they endure. Deer will generally be quickly sedated so that they can be handled safely with any risk of injury. The drugs we used are safe and can be quickly reversed when we are done processing the deer. In general, a deer is back up and running in less than 30 minutes.   
 
 #### 5. How can I get involved?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum
+Feel free to reach out if you would like to get involved. We are on the lookout for students to help us with checking traps in the spring. Students interested in using the data for a research project are also encouraged to reach out.  
 
 #### 6. Will you keep doing this?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+We are hoping to keep collaring a few deer every year. We are looking for support to assist in purchasing the GPS collars. If you would like to support, please visit the Contribute page.
+
+#### 7. What other FAQs may we get? 
+
+Send us your questions over email (deer@siu.edu) and we may add it to this page! 
+
