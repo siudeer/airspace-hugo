@@ -25,6 +25,6 @@ cta:
   enable: true
 menu:
   main:
-    weight: 48
+    weight: 61
 
 ---

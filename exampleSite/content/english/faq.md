@@ -5,6 +5,10 @@ subtitle:
 lastmod: 2021-09-27T00:00:00.000+00:00
 bg_image: "/images/dsc09538.JPG"
 layout: faq
+menu:
+  main:
+    name: FAQ
+    weight: 62
 
 ---
 #### 1. How do you capture, collar, and process the deer?
@@ -33,5 +37,4 @@ We are hoping to keep collaring a few deer every year. We are looking for suppor
 
 #### 7. What other FAQs may we get? 
 
-Send us your questions over email (deer@siu.edu) and we may add it to this page! 
-
+Send us your questions over email (deer@siu.edu) and we may add it to this page!
