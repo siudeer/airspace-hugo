@@ -3,7 +3,7 @@ title: Rosalind Franklin
 description: ''
 image: images/portfolio/work6.jpg
 bg_image: images/feature-bg.jpg
-category: ''
+category: Does
 information:
 - label: Sex
   info: Female
