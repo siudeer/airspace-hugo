@@ -1,19 +1,11 @@
 +++
 bg_image = "images/feature-bg.jpg"
-category = "Bucks"
+category = ""
 description = ""
 draft = true
 image = "images/portfolio/work3.jpg"
-title = "Aldo Leopold-(copy)"
-[[information]]
-info = "Male"
-label = "Sex"
-[[information]]
-info = "Juvenile"
-label = "Age"
-[[information]]
-info = "4/1/21"
-label = "Tracking Start Date"
+information = []
+title = "Touch of Nature Deer"
 
 +++
-#### I’m Aldo Leopold (collar 87633), a young buck with a passion for science. I'm doing important disease research at the Public Health building, and when I'm not in the lab, you can find me in Thompson Woods.
+#### Hello! We're the collared deer at Touch of Nature. Unlike our friends on campus, we live in the quiet forests of Touch of Nature, which is located south of campus, near Giant City State Park. We spend our days roaming through the trees, grazing, and trying to avoid predators!
