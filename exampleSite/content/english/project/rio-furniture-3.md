@@ -13,4 +13,4 @@ information:
   info: ''
 
 ---
-#### I’m Aldo Leopold (collar 87633), a young buck doing important disease research at the Public Health building. When not in the lab, you can find me in Thompson Woods.
+#### I’m Aldo Leopold (collar 87633), a young buck with a passion for science. I'm doing important disease research at the Public Health building, and when I'm not in the lab, you can find me in Thompson Woods.
