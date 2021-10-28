@@ -2,7 +2,6 @@
 bg_image = "images/feature-bg.jpg"
 category = ""
 description = ""
-draft = true
 image = "images/portfolio/work3.jpg"
 information = []
 title = "Touch of Nature Deer"
