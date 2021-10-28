@@ -11,7 +11,7 @@ label = "Sex"
 info = "Adult"
 label = "Age"
 [[information]]
-info = "Photoshop,Illustrator"
+info = ""
 label = "Tracking Start Date"
 
 +++
