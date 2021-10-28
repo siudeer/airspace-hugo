@@ -10,7 +10,7 @@ information:
 - label: Age
   info: Adult
 - label: Tracking Start Date
-  info: Photoshop,Illustrator
+  info: ''
 
 ---
 #### Hi! I’m Rosalind Franklin (collar 88252), an adult doe who's from the country and loves to help out around the University Farms… and I get a few snacks out of it too!
