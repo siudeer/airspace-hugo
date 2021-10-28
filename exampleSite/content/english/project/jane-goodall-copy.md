@@ -1,6 +1,6 @@
 +++
 bg_image = "images/feature-bg.jpg"
-category = "Illustration"
+category = ""
 description = ""
 image = "images/portfolio/work5.jpg"
 title = "Rachel Carson "
