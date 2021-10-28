@@ -2,7 +2,6 @@
 bg_image = "images/feature-bg.jpg"
 category = "Illustration"
 description = "this is meta description"
-draft = true
 image = "images/portfolio/work5.jpg"
 title = "Rachel Carson "
 [[information]]
