@@ -4,7 +4,7 @@ category = "Illustration"
 description = "this is meta description"
 draft = true
 image = "images/portfolio/work5.jpg"
-title = "Jane Goodall-(copy)"
+title = "Rachel Carson "
 [[information]]
 info = "Jannie Kelonsky"
 label = "Client"
@@ -25,4 +25,4 @@ info = "Jannie Kelonsky"
 label = "Client"
 
 +++
-Hello! I’m Jane Goodall (collar 88254), an adult doe born and raised in Thompson Woods, but I love to spend my days by Chick-fil-A! You can’t beat the food and people-watching around the Student Center, although I hope to try bowling there one day.
+Hi! I’m Rachel Carson (collar 88253), an adult female who loves to hang out around Campus Lake and Thompson Woods. You won’t find me anywhere near Carbondale Reservoir though, I love to stick on campus.
