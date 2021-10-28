@@ -3,7 +3,7 @@ title: John Muir
 description: ''
 image: images/portfolio/work1.jpg
 bg_image: images/feature-bg.jpg
-category: ''
+category: Bucks
 information:
 - label: Sex
   info: Male
