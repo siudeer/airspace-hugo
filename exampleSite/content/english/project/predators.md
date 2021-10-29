@@ -5,7 +5,7 @@ description = ""
 draft = true
 image = "images/portfolio/work3.jpg"
 information = []
-title = "Predators"
+title = "The Bad Guys: Predators"
 
 +++
-#### Hello! We're the collared deer at Touch of Nature. Unlike our friends on campus who socialize with students, we live in the quiet forests of Touch of Nature, near Giant City State Park. We spend our days roaming through the trees, grazing, and trying to avoid predators!
+#### Hi! We're the bobcats and coyotes of Illinois. We're important predators, keeping other animal populations in check. We can also affect deer by keeping them moving around to different areas. You may think of us as the villains of the deer's story, but you'll be lucky to spot us around campus!
