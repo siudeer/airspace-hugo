@@ -1,6 +1,6 @@
 +++
 bg_image = "images/feature-bg.jpg"
-category = ""
+category = "Other Project Animals"
 description = ""
 image = "images/portfolio/work3.jpg"
 information = []
