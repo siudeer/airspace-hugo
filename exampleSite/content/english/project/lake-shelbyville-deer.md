@@ -1,6 +1,6 @@
 +++
 bg_image = "images/feature-bg.jpg"
-category = ""
+category = "Other Project Animals"
 description = ""
 draft = true
 image = "images/portfolio/work3.jpg"
@@ -8,4 +8,4 @@ information = []
 title = "Lake Shelbyville Deer"
 
 +++
-#### Hello! We're the collared deer at Touch of Nature. Unlike our friends on campus, we live in the quiet forests of Touch of Nature, which is located south of campus, near Giant City State Park. We spend our days roaming through the trees, grazing, and trying to avoid predators!
+#### Hi! We're the collared deer at Lake Shelbyville. We enjoy the rural life up north in central Illinois. We spend our days walking the corn fields, relaxing on the beaches of Lake Shelbyville, and watching sunsets. One of our crew is locally famous, Marshmellow the white deer!
