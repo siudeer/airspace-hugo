@@ -64,7 +64,7 @@ cta:
   enable: true
 menu:
   main:
-    weight: 60
+    weight: 62
   footer:
     weight: 51
 
