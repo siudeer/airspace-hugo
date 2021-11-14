@@ -10,4 +10,4 @@ title = "Deer impact on regenration"
 type = "post"
 
 +++
-Have you seen a weird looking fence at Touch of Nature or in the Union Hill neighborhood?  Do not waste time trying to see what 
+Have you seen a weird looking fence at Touch of Nature or in the Union Hill neighborhood?  Do not waste time trying to find what creature is being enclosed within these 100m² fences. These are not enclosures, but actually exclosures. Their goal is to keep animal (here white-tailed deer) outside 
