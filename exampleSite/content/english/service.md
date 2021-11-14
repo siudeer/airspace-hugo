@@ -66,6 +66,6 @@ menu:
   main:
     weight: 62
   footer:
-    weight: 51
+    weight: 52
 
 ---

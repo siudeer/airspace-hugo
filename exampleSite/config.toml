@@ -55,148 +55,148 @@ ordered = false
 startLevel = "1"
 [[menu.footer]]
 name = "Servizio"
-weight = 8
+weight = 7
 [[menu.footer]]
 name = "Progetto"
-weight = 5
+weight = 4
 [[menu.footer]]
 name = "Tariffazione"
-weight = 11
+weight = 10
 [[menu.footer]]
 name = "Domande frequenti"
-weight = 14
+weight = 13
 [[menu.footer]]
 name = "Contatta"
-weight = 17
+weight = 16
 [[menu.footer]]
 name = "Chi siamo"
 weight = 2
 [[menu.footer]]
 name = "Dienstleistung"
-weight = 7
+weight = 6
 [[menu.footer]]
 name = "Projekt"
-weight = 4
+weight = 3
 [[menu.footer]]
 name = "Preise"
-weight = 10
+weight = 9
 [[menu.footer]]
 name = "Häufige Fragen"
-weight = 13
+weight = 12
 [[menu.footer]]
 name = "Kontakt"
-weight = 16
+weight = 15
 [[menu.footer]]
 name = "Über uns"
 weight = 1
 [[menu.footer]]
 name = "Servizio"
-weight = 21
-[[menu.footer]]
-name = "Progetto"
-weight = 18
-[[menu.footer]]
-name = "Tariffazione"
-weight = 24
-[[menu.footer]]
-name = "Domande frequenti"
-weight = 27
-[[menu.footer]]
-name = "Contatta"
-weight = 30
-[[menu.footer]]
-name = "Chi siamo"
-weight = 9
-[[menu.footer]]
-name = "Dienstleistung"
 weight = 20
 [[menu.footer]]
-name = "Projekt"
-weight = 15
+name = "Progetto"
+weight = 17
 [[menu.footer]]
-name = "Preise"
+name = "Tariffazione"
 weight = 23
 [[menu.footer]]
-name = "Häufige Fragen"
+name = "Domande frequenti"
 weight = 26
 [[menu.footer]]
-name = "Kontakt"
+name = "Contatta"
 weight = 29
 [[menu.footer]]
-name = "Über uns"
-weight = 6
-[[menu.footer]]
-name = "Servizio"
-weight = 33
-[[menu.footer]]
-name = "Progetto"
-weight = 28
-[[menu.footer]]
-name = "Tariffazione"
-weight = 35
-[[menu.footer]]
-name = "Domande frequenti"
-weight = 38
-[[menu.footer]]
-name = "Contatta"
-weight = 41
-[[menu.footer]]
 name = "Chi siamo"
+weight = 8
+[[menu.footer]]
+name = "Dienstleistung"
 weight = 19
 [[menu.footer]]
-name = "Dienstleistung"
-weight = 32
-[[menu.footer]]
 name = "Projekt"
+weight = 14
+[[menu.footer]]
+name = "Preise"
+weight = 22
+[[menu.footer]]
+name = "Häufige Fragen"
 weight = 25
 [[menu.footer]]
-name = "Preise"
-weight = 34
-[[menu.footer]]
-name = "Häufige Fragen"
-weight = 37
-[[menu.footer]]
 name = "Kontakt"
-weight = 40
+weight = 28
 [[menu.footer]]
 name = "Über uns"
-weight = 12
+weight = 5
 [[menu.footer]]
 name = "Servizio"
-weight = 44
+weight = 32
 [[menu.footer]]
 name = "Progetto"
-weight = 39
+weight = 27
 [[menu.footer]]
 name = "Tariffazione"
-weight = 46
+weight = 34
 [[menu.footer]]
 name = "Domande frequenti"
-weight = 48
+weight = 37
 [[menu.footer]]
 name = "Contatta"
-weight = 50
+weight = 40
 [[menu.footer]]
 name = "Chi siamo"
-weight = 31
+weight = 18
 [[menu.footer]]
 name = "Dienstleistung"
-weight = 42
+weight = 31
 [[menu.footer]]
 name = "Projekt"
-weight = 36
+weight = 24
 [[menu.footer]]
 name = "Preise"
-weight = 45
+weight = 33
 [[menu.footer]]
 name = "Häufige Fragen"
-weight = 47
+weight = 36
 [[menu.footer]]
 name = "Kontakt"
-weight = 49
+weight = 39
 [[menu.footer]]
 name = "Über uns"
-weight = 22
+weight = 11
+[[menu.footer]]
+name = "Servizio"
+weight = 43
+[[menu.footer]]
+name = "Progetto"
+weight = 38
+[[menu.footer]]
+name = "Tariffazione"
+weight = 45
+[[menu.footer]]
+name = "Domande frequenti"
+weight = 47
+[[menu.footer]]
+name = "Contatta"
+weight = 49
+[[menu.footer]]
+name = "Chi siamo"
+weight = 30
+[[menu.footer]]
+name = "Dienstleistung"
+weight = 41
+[[menu.footer]]
+name = "Projekt"
+weight = 35
+[[menu.footer]]
+name = "Preise"
+weight = 44
+[[menu.footer]]
+name = "Häufige Fragen"
+weight = 46
+[[menu.footer]]
+name = "Kontakt"
+weight = 48
+[[menu.footer]]
+name = "Über uns"
+weight = 21
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
