@@ -6,25 +6,19 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: Basic
-    price: Any amount
-    content: Any contributions can help us keeping this project going
+  - name: Contribution
+    price: Any contributions can help
+    content: ''
     link: https://wildlife.siu.edu/giving/
     services:
     - Help with purchasing collars
+    - Help with field efforts
     - Assist with training of students
-    - Something about outreach
-  - content: Get to assist with a capture and collaring of a deer
-    link: https://wildlife.siu.edu/giving/
-    services:
-    - Help with purchasing collars
-    - Assist with training students
-    price: "$500"
-    name: Premium
+    - Support new findings of deer behavior
 cta:
   enable: true
 menu:
-  main:
-    weight: 63
+  footer:
+    weight: 53
 
 ---
