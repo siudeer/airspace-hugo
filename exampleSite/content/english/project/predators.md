@@ -5,6 +5,9 @@ description = ""
 image = "images/portfolio/work3.jpg"
 title = "The Bad Guys: Predators"
 [[information]]
+info = "35"
+label = "Coyotes Tracked:"
+[[information]]
 info = "16"
 label = "Bobcats Tracked:"
 
