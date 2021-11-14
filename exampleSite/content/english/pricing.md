@@ -6,8 +6,8 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: Contribution
-    price: Any contributions can help
+  - name: Contribute
+    price: Every contribution can help
     content: ''
     link: https://wildlife.siu.edu/giving/
     services:
