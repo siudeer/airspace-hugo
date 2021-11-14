@@ -365,7 +365,7 @@ parent = "Più"
 weight = 54
 [[menu.main]]
 name = "Contatta"
-weight = 59
+weight = 58
 [[menu.main]]
 name = "Chi siamo"
 weight = 50
@@ -389,7 +389,7 @@ parent = "Mehr"
 weight = 52
 [[menu.main]]
 name = "Kontakt"
-weight = 58
+weight = 57
 [[menu.main]]
 name = "Über uns"
 weight = 45

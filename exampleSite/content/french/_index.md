@@ -93,6 +93,6 @@ funfacts:
 menu:
   main:
     name: Home
-    weight: 60
+    weight: 59
 
 ---
