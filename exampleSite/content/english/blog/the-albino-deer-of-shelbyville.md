@@ -4,7 +4,6 @@ bg_image = "/images/christian.jpg"
 categories = ["Undergraduate", "Completed"]
 date = 2021-11-01T05:00:00Z
 description = ""
-draft = true
 image = "/images/map-christian.jpg"
 tags = ["Individual variation", "Albino", "Home-range"]
 title = "The albino deer of Shelbyville "
