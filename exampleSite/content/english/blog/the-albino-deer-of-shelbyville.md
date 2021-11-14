@@ -1,10 +1,10 @@
 +++
 author = "Christian Gonzalez"
-bg_image = "/images/christian.jpg"
+bg_image = ""
 categories = ["Undergraduate", "Completed"]
 date = 2021-04-01T05:00:00Z
 description = ""
-image = "/images/map-christian.jpg"
+image = "/images/christian.jpg"
 tags = ["Individual variation", "Albino", "Home-range"]
 title = "The albino deer of Shelbyville "
 type = "post"
