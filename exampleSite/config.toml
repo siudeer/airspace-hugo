@@ -55,46 +55,46 @@ ordered = false
 startLevel = "1"
 [[menu.footer]]
 name = "Servizio"
-weight = 7
-[[menu.footer]]
-name = "Progetto"
-weight = 4
-[[menu.footer]]
-name = "Tariffazione"
-weight = 10
-[[menu.footer]]
-name = "Domande frequenti"
-weight = 13
-[[menu.footer]]
-name = "Contatta"
-weight = 16
-[[menu.footer]]
-name = "Chi siamo"
-weight = 2
-[[menu.footer]]
-name = "Dienstleistung"
-weight = 6
-[[menu.footer]]
-name = "Projekt"
-weight = 3
-[[menu.footer]]
-name = "Preise"
 weight = 9
 [[menu.footer]]
-name = "Häufige Fragen"
+name = "Progetto"
+weight = 6
+[[menu.footer]]
+name = "Tariffazione"
 weight = 12
 [[menu.footer]]
-name = "Kontakt"
+name = "Domande frequenti"
 weight = 15
 [[menu.footer]]
+name = "Contatta"
+weight = 18
+[[menu.footer]]
+name = "Chi siamo"
+weight = 3
+[[menu.footer]]
+name = "Dienstleistung"
+weight = 8
+[[menu.footer]]
+name = "Projekt"
+weight = 5
+[[menu.footer]]
+name = "Preise"
+weight = 11
+[[menu.footer]]
+name = "Häufige Fragen"
+weight = 14
+[[menu.footer]]
+name = "Kontakt"
+weight = 17
+[[menu.footer]]
 name = "Über uns"
-weight = 1
+weight = 2
 [[menu.footer]]
 name = "Servizio"
-weight = 20
+weight = 21
 [[menu.footer]]
 name = "Progetto"
-weight = 17
+weight = 16
 [[menu.footer]]
 name = "Tariffazione"
 weight = 23
@@ -106,13 +106,13 @@ name = "Contatta"
 weight = 29
 [[menu.footer]]
 name = "Chi siamo"
-weight = 8
+weight = 7
 [[menu.footer]]
 name = "Dienstleistung"
-weight = 19
+weight = 20
 [[menu.footer]]
 name = "Projekt"
-weight = 14
+weight = 13
 [[menu.footer]]
 name = "Preise"
 weight = 22
@@ -124,7 +124,7 @@ name = "Kontakt"
 weight = 28
 [[menu.footer]]
 name = "Über uns"
-weight = 5
+weight = 4
 [[menu.footer]]
 name = "Servizio"
 weight = 32
@@ -133,119 +133,83 @@ name = "Progetto"
 weight = 27
 [[menu.footer]]
 name = "Tariffazione"
-weight = 34
+weight = 35
 [[menu.footer]]
 name = "Domande frequenti"
 weight = 37
 [[menu.footer]]
 name = "Contatta"
-weight = 40
+weight = 39
 [[menu.footer]]
 name = "Chi siamo"
-weight = 18
+weight = 19
 [[menu.footer]]
 name = "Dienstleistung"
-weight = 31
+weight = 30
 [[menu.footer]]
 name = "Projekt"
 weight = 24
 [[menu.footer]]
 name = "Preise"
-weight = 33
+weight = 34
 [[menu.footer]]
 name = "Häufige Fragen"
 weight = 36
 [[menu.footer]]
 name = "Kontakt"
-weight = 39
-[[menu.footer]]
-name = "Über uns"
-weight = 11
-[[menu.footer]]
-name = "Servizio"
-weight = 43
-[[menu.footer]]
-name = "Progetto"
 weight = 38
 [[menu.footer]]
-name = "Tariffazione"
-weight = 45
-[[menu.footer]]
-name = "Domande frequenti"
-weight = 47
-[[menu.footer]]
-name = "Contatta"
-weight = 49
-[[menu.footer]]
-name = "Chi siamo"
-weight = 30
-[[menu.footer]]
-name = "Dienstleistung"
-weight = 41
-[[menu.footer]]
-name = "Projekt"
-weight = 35
-[[menu.footer]]
-name = "Preise"
-weight = 44
-[[menu.footer]]
-name = "Häufige Fragen"
-weight = 46
-[[menu.footer]]
-name = "Kontakt"
-weight = 48
-[[menu.footer]]
 name = "Über uns"
-weight = 21
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-weight = 15
-[[menu.main]]
-name = "Servizio"
-parent = "Più"
-weight = 3
-[[menu.main]]
-name = "Progetto"
-weight = 13
-[[menu.main]]
-name = "Tariffazione"
-parent = "Più"
-weight = 8
-[[menu.main]]
-name = "Domande frequenti"
-parent = "Più"
-weight = 12
-[[menu.main]]
-name = "Contatta"
-weight = 19
-[[menu.main]]
-name = "Chi siamo"
-weight = 7
-[[menu.main]]
-name = "Pagina iniziale"
-weight = 2
-[[menu.main]]
-name = "Dienstleistung"
-parent = "Mehr"
-weight = 1
-[[menu.main]]
-name = "Projekt"
-weight = 11
-[[menu.main]]
-name = "Preise"
-parent = "Mehr"
-weight = 6
-[[menu.main]]
-name = "Häufige Fragen"
-parent = "Mehr"
 weight = 10
 [[menu.main]]
+identifier = "blog"
+name = "Blog"
+weight = 16
+[[menu.main]]
+name = "Servizio"
+parent = "Più"
+weight = 4
+[[menu.main]]
+name = "Progetto"
+weight = 14
+[[menu.main]]
+name = "Tariffazione"
+parent = "Più"
+weight = 9
+[[menu.main]]
+name = "Domande frequenti"
+parent = "Più"
+weight = 13
+[[menu.main]]
+name = "Contatta"
+weight = 20
+[[menu.main]]
+name = "Chi siamo"
+weight = 8
+[[menu.main]]
+name = "Pagina iniziale"
+weight = 3
+[[menu.main]]
+name = "Dienstleistung"
+parent = "Mehr"
+weight = 2
+[[menu.main]]
+name = "Projekt"
+weight = 12
+[[menu.main]]
+name = "Preise"
+parent = "Mehr"
+weight = 7
+[[menu.main]]
+name = "Häufige Fragen"
+parent = "Mehr"
+weight = 11
+[[menu.main]]
 name = "Kontakt"
-weight = 18
+weight = 19
 [[menu.main]]
 name = "Über uns"
-weight = 5
+weight = 6
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
@@ -253,7 +217,7 @@ weight = 30
 [[menu.main]]
 name = "Servizio"
 parent = "Più"
-weight = 16
+weight = 15
 [[menu.main]]
 name = "Progetto"
 weight = 28
@@ -267,17 +231,17 @@ parent = "Più"
 weight = 27
 [[menu.main]]
 name = "Contatta"
-weight = 34
+weight = 33
 [[menu.main]]
 name = "Chi siamo"
 weight = 22
 [[menu.main]]
 name = "Pagina iniziale"
-weight = 14
+weight = 10
 [[menu.main]]
 name = "Dienstleistung"
 parent = "Mehr"
-weight = 9
+weight = 5
 [[menu.main]]
 name = "Projekt"
 weight = 26
@@ -291,32 +255,32 @@ parent = "Mehr"
 weight = 25
 [[menu.main]]
 name = "Kontakt"
-weight = 33
+weight = 32
 [[menu.main]]
 name = "Über uns"
-weight = 20
+weight = 18
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-weight = 44
-[[menu.main]]
-name = "Servizio"
-parent = "Più"
-weight = 29
-[[menu.main]]
-name = "Progetto"
 weight = 42
 [[menu.main]]
+name = "Servizio"
+parent = "Più"
+weight = 29
+[[menu.main]]
+name = "Progetto"
+weight = 41
+[[menu.main]]
 name = "Tariffazione"
 parent = "Più"
 weight = 37
 [[menu.main]]
 name = "Domande frequenti"
 parent = "Più"
-weight = 41
+weight = 40
 [[menu.main]]
 name = "Contatta"
-weight = 47
+weight = 45
 [[menu.main]]
 name = "Chi siamo"
 weight = 36
@@ -329,7 +293,7 @@ parent = "Mehr"
 weight = 17
 [[menu.main]]
 name = "Projekt"
-weight = 40
+weight = 39
 [[menu.main]]
 name = "Preise"
 parent = "Mehr"
@@ -337,65 +301,16 @@ weight = 35
 [[menu.main]]
 name = "Häufige Fragen"
 parent = "Mehr"
-weight = 39
-[[menu.main]]
-name = "Kontakt"
-weight = 46
-[[menu.main]]
-name = "Über uns"
-weight = 32
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-weight = 56
-[[menu.main]]
-name = "Servizio"
-parent = "Più"
-weight = 43
-[[menu.main]]
-name = "Progetto"
-weight = 55
-[[menu.main]]
-name = "Tariffazione"
-parent = "Più"
-weight = 51
-[[menu.main]]
-name = "Domande frequenti"
-parent = "Più"
-weight = 54
-[[menu.main]]
-name = "Contatta"
-weight = 58
-[[menu.main]]
-name = "Chi siamo"
-weight = 50
-[[menu.main]]
-name = "Pagina iniziale"
 weight = 38
 [[menu.main]]
-name = "Dienstleistung"
-parent = "Mehr"
-weight = 31
-[[menu.main]]
-name = "Projekt"
-weight = 53
-[[menu.main]]
-name = "Preise"
-parent = "Mehr"
-weight = 49
-[[menu.main]]
-name = "Häufige Fragen"
-parent = "Mehr"
-weight = 52
-[[menu.main]]
 name = "Kontakt"
-weight = 57
+weight = 44
 [[menu.main]]
 name = "Über uns"
-weight = 45
+weight = 31
 [[menu.main]]
 name = "Startseite"
-weight = 4
+weight = 1
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
@@ -465,20 +380,5 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+link = "https://twitter.com/Gui_B_Rousseau"
