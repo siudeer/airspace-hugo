@@ -11,4 +11,4 @@ title = "Deer impact on regenration"
 type = "post"
 
 +++
-Have you seen a weird looking fence at Touch of Nature or in the Union Hill neighborhood? 
+Have you seen a weird looking fence at Touch of Nature or in the Union Hill neighborhood?  Do not waste time trying to see what 
