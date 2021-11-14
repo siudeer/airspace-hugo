@@ -1,14 +1,7 @@
 ---
-title: Latest News
-description: this is meta description
+title: Findings
+description: Learn more about deer ecology
 bg_image: images/feature-bg.jpg
-menu:
-  footer:
-    name: Findings
-    weight: 42
-  main:
-    name: Findings
-    identifier: blog
-    weight: 61
+categories: []
 
 ---
