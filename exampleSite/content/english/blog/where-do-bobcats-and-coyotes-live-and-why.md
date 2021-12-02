@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2021-12-02T06:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Where do bobcats and coyotes live and why?"
