@@ -11,12 +11,11 @@ information:
   info: Juvenile
 - label: Tracking Start Date
   info: 4/1/21
-- label: See a map of Jacques' points!
-  info: ID_87630.html
 output:
   html_document:
     includes:
-      after_body: images/portfolio/ID_87630.html
+      after_body: airspace-hugo/exampleSite/static/images/ID_87630.txt
 
 ---
 #### I’m Jacques Cousteau (collar 87630), a young buck who spends my days relaxing and doing water sports on Campus lake. Cowabunga!
+
