@@ -14,7 +14,7 @@ information:
 output:
   html_document:
     includes:
-      after_body: images/ID_87630.html
+      after_body: airspace-hugo/exampleSite/static/images/ID_87630.html
 
 ---
 #### I’m Jacques Cousteau (collar 87630), a young buck who spends my days relaxing and doing water sports on Campus lake. Cowabunga!
