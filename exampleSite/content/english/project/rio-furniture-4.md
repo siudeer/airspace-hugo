@@ -18,3 +18,5 @@ output:
 
 ---
 #### I’m Jacques Cousteau (collar 87630), a young buck who spends my days relaxing and doing water sports on Campus lake. Cowabunga!
+
+#### [See Jacques' movements by clicking here!](ID_87630.html)
