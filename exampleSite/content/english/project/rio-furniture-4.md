@@ -1,7 +1,7 @@
 ---
 title: Jacques Cousteau
 description: ''
-image: "/images/6282fdf6-0f51-4044-8ab2-75c36da8a771-b.jpg"
+image: "/images/6282fdf6-0f51-4044-8ab2-75c36da8a771-c.jpg"
 bg_image: "/images/deer-background.JPG"
 category: Bucks
 information:
