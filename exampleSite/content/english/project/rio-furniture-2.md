@@ -1,7 +1,7 @@
 ---
 title: Charles Darwin
 description: ''
-image: "/images/dsc09765.JPG"
+image: "/images/dsc09773.JPG"
 bg_image: "/images/deer-background.JPG"
 category: Bucks
 information:
