@@ -2,7 +2,7 @@
 title: Rosalind Franklin
 description: ''
 image: images/portfolio/work6.jpg
-bg_image: "/images/dsc09781.JPG"
+bg_image: "/images/deer-background.JPG"
 category: Does
 information:
 - label: Sex
