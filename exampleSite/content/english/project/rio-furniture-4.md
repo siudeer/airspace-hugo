@@ -2,7 +2,7 @@
 title: Jacques Cousteau
 description: ''
 image: "/images/picturec.png"
-bg_image: "/images/deer-background.JPG"
+bg_image: "/images/deer-background-low-res.JPG"
 category: Bucks
 information:
 - label: Sex
