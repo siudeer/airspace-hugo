@@ -2,7 +2,7 @@
 title: Charles Darwin
 description: ''
 image: images/portfolio/work2.jpg
-bg_image: "/images/dsc09781.JPG"
+bg_image: "/images/deer-background.JPG"
 category: Bucks
 information:
 - label: Sex
