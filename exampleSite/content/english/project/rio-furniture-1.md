@@ -1,7 +1,7 @@
 ---
 title: John Muir
 description: ''
-image: "/images/i_00040a-b.JPG"
+image: "/images/pictureb.png"
 bg_image: "/images/deer-background.JPG"
 category: Bucks
 information:
