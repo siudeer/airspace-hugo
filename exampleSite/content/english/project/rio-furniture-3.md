@@ -1,8 +1,8 @@
 ---
 title: Aldo Leopold
 description: ''
-image: "/images/dsc09532.JPG"
-bg_image: "/images/deer-background.JPG"
+image: "/images/dsc09532-a.JPG"
+bg_image: "/images/deer-background-low-res.JPG"
 category: Bucks
 information:
 - label: Sex
