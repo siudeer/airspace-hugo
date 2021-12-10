@@ -2,7 +2,7 @@
 title: John Muir
 description: ''
 image: "/images/pictureb.png"
-bg_image: "/images/deer-background.JPG"
+bg_image: "/images/deer-background-low-res.JPG"
 category: Bucks
 information:
 - label: Sex
