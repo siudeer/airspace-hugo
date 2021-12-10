@@ -67,7 +67,7 @@ funfacts:
     name: Does collared
     count: "3"
   - icon: ion-radio-waves
-    name: Collar actives
+    name: Active collars
     count: "7"
   - icon: ion-location
     name: GPS locations acquired
