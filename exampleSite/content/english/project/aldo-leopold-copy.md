@@ -2,7 +2,7 @@
 bg_image = "/images/i_00045a-copy.JPG"
 category = "Other Project Animals"
 description = ""
-image = "/images/i_00072c-a.JPG"
+image = "/images/picturee.png"
 title = "Touch of Nature Deer"
 [[information]]
 info = "33"
