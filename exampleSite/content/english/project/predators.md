@@ -1,8 +1,8 @@
 +++
-bg_image = "images/feature-bg.jpg"
+bg_image = "/images/img_2143.JPG"
 category = "Other Project Animals"
 description = ""
-image = "images/portfolio/work3.jpg"
+image = "/images/i_00022c2.JPG"
 title = "The Bad Guys: Predators"
 [[information]]
 info = "14"
