@@ -14,3 +14,5 @@ information:
 
 ---
 #### Hello! I’m Charles Darwin (collar 88256), an adult buck who loves the lake life. A big fan of Journey, I often take trips “on a midnight train, going from Campus Lake to Carbondale Reservoiiiiiiiir”.
+
+#### [See Charles' movements by clicking here!](ID_88256.html)
