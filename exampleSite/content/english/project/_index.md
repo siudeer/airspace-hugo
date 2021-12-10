@@ -1,6 +1,6 @@
 ---
 title: The Deer
 description: ''
-bg_image: "/images/dsc09781.JPG"
+bg_image: "/images/deer-background.JPG"
 
 ---
