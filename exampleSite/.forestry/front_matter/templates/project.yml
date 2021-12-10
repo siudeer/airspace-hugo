@@ -20,6 +20,14 @@ fields:
   name: category
   label: category
   description: Filter Category
+- name: see_rosalind_s_movements_here_
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: See Rosalind's movements here!
+  description: <a href="ID_88252.html" title="Rosalind" target="_blank">ID_88252.html</a>
 - type: field_group_list
   name: information
   label: information
