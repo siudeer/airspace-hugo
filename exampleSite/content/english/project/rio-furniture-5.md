@@ -1,7 +1,7 @@
 ---
 title: Jane Goodall
 description: ''
-image: "/images/img_20210527_123452-b.jpg"
+image: "/images/picturef.png"
 bg_image: "/images/deer-background.JPG"
 category: Does
 information:
