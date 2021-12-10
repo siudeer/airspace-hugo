@@ -8,8 +8,10 @@ title = "Shelbyville Deer"
 info = "24"
 label = "Does Tracked:"
 [[information]]
+info = "13"
 label = "Bucks Tracked:"
 [[information]]
+info = "50"
 label = "Fawns Tracked:"
 
 +++
