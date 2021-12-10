@@ -2,7 +2,7 @@
 bg_image = "/images/img_2143.JPG"
 category = "Other Project Animals"
 description = ""
-image = "/images/i_00022c2-a.JPG"
+image = "/images/pictured.png"
 title = "The Bad Guys: Predators"
 [[information]]
 info = "14"
