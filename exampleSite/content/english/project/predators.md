@@ -3,7 +3,7 @@ bg_image = "/images/img_2143.JPG"
 category = "Other Project Animals"
 description = ""
 image = "/images/pictured.png"
-title = "The Bad Guys: Predators"
+title = "Villains: Predators"
 [[information]]
 info = "14"
 label = "Bobcats Tracked:"
