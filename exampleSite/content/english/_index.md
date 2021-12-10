@@ -41,7 +41,7 @@ portfolio:
     individual deer to see their whereabouts and favorite hanging spots.  "
   button:
     enable: true
-    label: LEARN MORE ON WHO WE ARE
+    label: LEARN MORE ABOUT WHO WE ARE
     link: service
 service:
   enable: false
