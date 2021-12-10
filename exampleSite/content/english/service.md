@@ -12,7 +12,7 @@ about:
     mule deer, elk, elephant, and giant tortoises). While our research centered around
     animal movement, we focus on the various implications  movement has on animal
     such as predator-prey interactions, migration, disease spread, and impact of human
-    activities on their movement. Our research strive at improving our understanding
+    activities on their movement. Our research strives to improve our understanding
     of these species ecology while finding ways of ensuring a safe future for these
     species.
   image: images/swel_pics.jpg
@@ -62,10 +62,5 @@ service:
     content: https://www.lotek.com/
 cta:
   enable: true
-menu:
-  main:
-    weight: 62
-  footer:
-    weight: 52
 
 ---
