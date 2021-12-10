@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/i_00040a-copy.JPG"
+bg_image = "/images/i_00045a-copy.JPG"
 category = "Other Project Animals"
 description = ""
 image = "/images/i_00072c.JPG"
