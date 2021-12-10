@@ -2,7 +2,7 @@
 bg_image = "/images/picture1.png"
 category = "Other Project Animals"
 description = ""
-image = "/images/i_00014a.JPG"
+image = "/images/i_00014a-b.JPG"
 title = "Shelbyville Deer"
 [[information]]
 info = "24"
