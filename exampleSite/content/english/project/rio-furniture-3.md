@@ -1,7 +1,7 @@
 ---
 title: Aldo Leopold
 description: ''
-image: images/portfolio/work3.jpg
+image: "/images/dsc09532.JPG"
 bg_image: "/images/deer-background.JPG"
 category: Bucks
 information:
