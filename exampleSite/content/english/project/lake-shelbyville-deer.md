@@ -5,6 +5,7 @@ description = ""
 image = "images/portfolio/work3.jpg"
 title = "Shelbyville Deer"
 [[information]]
+info = "24"
 label = "Does Tracked:"
 [[information]]
 label = "Bucks Tracked:"
