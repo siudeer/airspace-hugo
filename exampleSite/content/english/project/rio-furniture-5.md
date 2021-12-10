@@ -2,7 +2,7 @@
 title: Jane Goodall
 description: ''
 image: images/portfolio/work5.jpg
-bg_image: "/images/dsc09781.JPG"
+bg_image: "/images/deer-background.JPG"
 category: Does
 information:
 - label: Sex
