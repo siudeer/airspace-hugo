@@ -2,7 +2,7 @@
 bg_image = "/images/deer-background.JPG"
 category = "Does"
 description = ""
-image = "images/portfolio/work5.jpg"
+image = "/images/dsc09773.JPG"
 title = "Rachel Carson "
 [[information]]
 info = "Female"
