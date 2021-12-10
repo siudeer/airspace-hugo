@@ -5,10 +5,13 @@ description = ""
 image = "images/portfolio/work3.jpg"
 title = "Touch of Nature Deer"
 [[information]]
+info = "33"
 label = "Does Tracked:"
 [[information]]
+info = "17"
 label = "Bucks Tracked:"
 [[information]]
+info = "52"
 label = "Fawns Tracked:"
 
 +++
