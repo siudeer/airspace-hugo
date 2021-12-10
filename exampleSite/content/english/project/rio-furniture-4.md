@@ -5,6 +5,8 @@ image: "/images/picturec.png"
 bg_image: "/images/deer-background-low-res.JPG"
 category: Bucks
 information:
+- label: Status
+  info: Active
 - label: Sex
   info: Male
 - label: Age
