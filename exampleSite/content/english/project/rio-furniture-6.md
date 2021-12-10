@@ -1,7 +1,7 @@
 ---
 title: Rosalind Franklin
 description: ''
-image: "/images/dsc09769.JPG"
+image: "/images/pictureg.png"
 bg_image: "/images/deer-background.JPG"
 category: Does
 information:
