@@ -1,8 +1,8 @@
 +++
-bg_image = "images/feature-bg.jpg"
+bg_image = "/images/i_00040a-copy.JPG"
 category = "Other Project Animals"
 description = ""
-image = "images/portfolio/work3.jpg"
+image = "/images/i_00072c.JPG"
 title = "Touch of Nature Deer"
 [[information]]
 info = "33"
