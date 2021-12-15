@@ -3,7 +3,7 @@ bg_image = "/images/i_00045a-copy.JPG"
 category = "Other Project Animals"
 description = ""
 image = "/images/picturee.png"
-title = "Touch of Nature Deer"
+title = "Touch"
 [[information]]
 info = "33"
 label = "Does Tracked:"
