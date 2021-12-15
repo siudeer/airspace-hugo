@@ -1,5 +1,5 @@
 ---
-title: Rose
+title: Rosalind Franklin
 description: ''
 image: "/images/pictureg.png"
 bg_image: "/images/deer-background-low-res.JPG"
