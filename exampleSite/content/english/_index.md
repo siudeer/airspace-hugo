@@ -81,11 +81,9 @@ funfacts:
     image: "/images/picturec.png"
     designation: Buck
     content: Check out the maps of our movements!
-  - name: Rose Rio
-    image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+  - name: Charles Darwin
+    image: "/images/dsc09773-a.JPG"
+    designation: Buck
+    content: Have you seen me around campus?
 
 ---
