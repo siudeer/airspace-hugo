@@ -56,7 +56,7 @@ startLevel = "1"
 [[menu.main]]
 name = "Meet the deer "
 url = "https://deer-test1.netlify.app/project"
-weight = 1
+weight = 5
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
