@@ -77,12 +77,10 @@ funfacts:
     image: "/images/pictureg.png"
     designation: Energetic doe
     content: 'I like green stuff! '
-  - name: Randi Renin
+  - name: Jacques Cousteau
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Buck
+    content: Check out the maps of our movements!
   - name: Rose Rio
     image: images/clients/avater-3.jpg
     designation: CEO-Themefisher
