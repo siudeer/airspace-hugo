@@ -53,6 +53,10 @@ unsafe = true
 endLevel = "2"
 ordered = false
 startLevel = "1"
+[[menu.main]]
+name = "Meet the deer "
+url = "https://deer-test1.netlify.app/project"
+weight = 1
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
