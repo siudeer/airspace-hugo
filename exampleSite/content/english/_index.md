@@ -71,7 +71,7 @@ funfacts:
     count: "7"
   - icon: ion-location
     name: GPS locations acquired
-    count: "7000"
+    count: '63,000'
   testimonial_slider:
   - name: Deer number 1
     image: images/clients/avater-1.jpg
