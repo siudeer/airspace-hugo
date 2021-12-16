@@ -105,6 +105,6 @@ cta:
 menu:
   footer:
     name: 'Meet the deer '
-    weight: 5
+    weight: 2
 
 ---

@@ -85,5 +85,9 @@ funfacts:
     image: "/images/dsc09773-a.JPG"
     designation: Buck
     content: Have you seen me around campus?
+menu:
+  footer:
+    name: Home
+    weight: 1
 
 ---
