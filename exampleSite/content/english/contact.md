@@ -4,8 +4,8 @@ description: ''
 bg_image: "/images/dsc09515.JPG"
 layout: contact
 menu:
-  main:
+  footer:
     name: Contact
-    weight: 6
+    weight: 7
 
 ---
