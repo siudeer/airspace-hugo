@@ -11,7 +11,7 @@ menu:
     weight: 3
   footer:
     name: FAQ
-    weight: 6
+    weight: 5
 
 ---
 #### 1. How do you capture, collar, and process the deer?
