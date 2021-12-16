@@ -2,13 +2,13 @@
 title: Frequently Asked Questions
 description: this is meta description
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
-lastmod: 2021-04-01T00:00:00.000+00:00
+lastmod: '2021-04-01T00:00:00.000+00:00'
 bg_image: images/feature-bg.jpg
 layout: faq
 menu:
   footer:
     name: FAQ
-    weight: 54
+    weight: 52
 
 ---
 ### Welcome to Airspace!

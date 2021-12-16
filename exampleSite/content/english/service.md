@@ -62,5 +62,8 @@ service:
     content: https://www.lotek.com/
 cta:
   enable: true
+menu:
+  footer:
+    weight: 49
 
 ---
