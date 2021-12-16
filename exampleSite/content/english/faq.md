@@ -8,7 +8,7 @@ layout: faq
 menu:
   main:
     name: FAQ
-    weight: 6
+    weight: 3
   footer:
     name: FAQ
     weight: 6

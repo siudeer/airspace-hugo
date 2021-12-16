@@ -5,7 +5,7 @@ bg_image: "/images/dsc09802.JPG"
 categories: []
 menu:
   main:
-    weight: 3
+    weight: 2
   footer:
     weight: 4
 

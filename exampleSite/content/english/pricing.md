@@ -18,8 +18,6 @@ pricing:
 cta:
   enable: true
 menu:
-  main:
-    weight: 8
   footer:
     weight: 5
 
