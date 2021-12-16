@@ -78,7 +78,7 @@ funfacts:
     designation: Energetic doe
     content: 'I like green stuff! '
   - name: Jacques Cousteau
-    image: images/clients/avater-1.jpg
+    image: "/images/picturec.png"
     designation: Buck
     content: Check out the maps of our movements!
   - name: Rose Rio
