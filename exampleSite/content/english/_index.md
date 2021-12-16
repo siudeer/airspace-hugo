@@ -73,8 +73,8 @@ funfacts:
     name: GPS locations acquired
     count: '63,000'
   testimonial_slider:
-  - name: Deer number 1
-    image: images/clients/avater-1.jpg
+  - name: Rosalind Franklin
+    image: "/images/pictureg.png"
     designation: Energetic doe
     content: 'I like green stuff! '
   - name: Randi Renin
