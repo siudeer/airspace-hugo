@@ -71,7 +71,7 @@ funfacts:
     count: "7"
   - icon: ion-location
     name: GPS locations acquired
-    count: '63,000'
+    count: "63000"
   testimonial_slider:
   - name: Rosalind Franklin
     image: "/images/pictureg.png"
