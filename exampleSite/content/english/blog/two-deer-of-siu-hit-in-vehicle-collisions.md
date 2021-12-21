@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2021-12-01T06:00:00Z
 description = ""
-draft = true
 image = "/images/img_20211202_162916.jpg"
 tags = ["Vehicles"]
 title = "Two deer of SIU hit in vehicle collisions "
