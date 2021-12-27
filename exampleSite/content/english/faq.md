@@ -2,9 +2,13 @@
 title: Frequently Asked Questions
 description: Learn more about the behind the scenes
 subtitle: 
-lastmod: '2021-09-27T00:00:00.000+00:00'
+lastmod: 2021-09-27T00:00:00.000+00:00
 bg_image: "/images/dsc09538.JPG"
 layout: faq
+menu:
+  main:
+    name: FAQ
+    weight: 4
 
 ---
 #### 1. How do you capture, collar, and process the deer?
