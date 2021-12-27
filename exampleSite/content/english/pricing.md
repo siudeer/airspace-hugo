@@ -17,8 +17,5 @@ pricing:
     - Support new findings of deer behavior
 cta:
   enable: true
-menu:
-  footer:
-    weight: 4
 
 ---
