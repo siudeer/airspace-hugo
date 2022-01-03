@@ -1,11 +1,11 @@
 +++
 author = "Nicole Gorman"
 bg_image = "/images/i_00012a-1.JPG"
-categories = []
+categories = ["On-going"]
 date = 2021-12-02T06:00:00Z
 description = ""
 image = "/images/img_5869.JPG"
-tags = []
+tags = ["Individual variation", "Home-range", "Predators"]
 title = "Where do bobcats and coyotes live and why?"
 type = "post"
 
