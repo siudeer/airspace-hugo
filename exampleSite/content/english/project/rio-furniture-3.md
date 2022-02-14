@@ -17,4 +17,4 @@ information:
 ---
 #### I’m Aldo Leopold (collar 87633), a young buck with a passion for science. I'm doing important disease research at the Public Health building, and when I'm not in the lab, you can find me in Thompson Woods.
 
-#### [See Aldo's movements by clicking here!](ID_87633.html)
+#### [See Aldo's movements by clicking here!](https://deer.siu.edu/maps/ID_87633.html)
