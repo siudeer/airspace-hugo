@@ -10,7 +10,7 @@ title = "The albino deer of Shelbyville "
 type = "post"
 
 +++
-Hello, my name is Christian Gonzalez, and I am recent graduate from Southern Illinois University with a bachelor's in Zoology.
+Hello, my name is Christian Gonzalez, and I am recent graduate from Southern Illinois University with a bachelor's in zoology.
 
 I joined the project during the summer 2020, where I was assisting in finding white-tailed deer fawns to monitor their survival. In fall 2020, I started a personal project to compare the space use of normal white-tailed deer to that of an albino white-tailed deer previously captured and collared. Using the GPS data collected from their collars and ArcGIS (a specialized spatial software), we were able to compare the various types of land covers, such as developed (urban) or forested areas, and evaluate if the albino deer behaved differently.
 
