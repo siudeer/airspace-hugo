@@ -6,14 +6,14 @@ draft = true
 image = "/images/picturea.png"
 title = "Touch of Nature Deer"
 [[information]]
-info = "24"
+info = "33"
 label = "Does Tracked:"
 [[information]]
-info = "13"
+info = "17"
 label = "Bucks Tracked:"
 [[information]]
-info = "50"
+info = "52"
 label = "Fawns Tracked:"
 
 +++
-#### Hi! We're the collared deer at Lake Shelbyville. We enjoy the rural life up north in central Illinois. We spend our days walking the corn fields, relaxing on the beaches of Lake Shelbyville, and watching sunsets. One of our crew is locally famous, Marshmellow the albino deer!
+#### Hi! We're the collared deer at Touch of Nature. Unlike our friends on campus who socialize with students, we live in the quiet forests of Touch of Nature, near Giant City State Park. We spend our days roaming through the trees, grazing, and trying to avoid predators!
