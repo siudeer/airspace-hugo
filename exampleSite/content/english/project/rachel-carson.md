@@ -20,4 +20,4 @@ label = "Status"
 +++
 #### Hi! I’m Rachel Carson (collar 88253), an adult doe who loves to hang out around Campus Lake and Thompson Woods. You won’t find me anywhere near Carbondale Reservoir though, I love the academic environment on campus.
 
-#### [See Rachel's movements by clicking here!](ID_88253.html)
+#### [See Rachel's movements by clicking here!](https://deer.siu.edu/maps/ID_88253.gif)
