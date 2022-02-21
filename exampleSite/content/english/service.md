@@ -13,7 +13,7 @@ about:
     animal movement, we focus on the various implications  movement has on animal
     such as predator-prey interactions, migration, disease spread, and impact of human
     activities on their movement. Our research strives to improve our understanding
-    of these species ecology while finding ways of ensuring a safe future for these
+    of these species' ecology while finding ways of ensuring a safe future for these
     species.
   image: images/swel_pics.jpg
   button:
