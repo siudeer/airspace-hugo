@@ -28,7 +28,7 @@ The Deer of SIU project accomplishes multiple goals. First, tracking deer on cam
 
 #### 4. Are the captures stressful for the deer?
 
-Captures can be stressful for the deer, but we try to reduce the level of stress they endure as much as possible. Deer are generally quickly sedated so that they can be handled safely with any risk of injury. The drugs we use are safe and can be quickly reversed when we are done processing the deer. In general, a deer is back up and running in less than 30 minutes.
+Captures can be stressful for the deer, but we try to reduce the level of stress they endure as much as possible. Deer are generally quickly sedated so that they can be handled safely without any risk of injury. The drugs we use are safe and can be quickly reversed when we are done processing the deer. In general, a deer is back up and running in less than 30 minutes.
 
 #### 5. How can I get involved?
 
