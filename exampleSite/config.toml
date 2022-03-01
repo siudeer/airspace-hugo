@@ -53,6 +53,42 @@ unsafe = true
 endLevel = "2"
 ordered = false
 startLevel = "1"
+[[menu.footer]]
+name = "Kontakt"
+weight = 16
+[[menu.footer]]
+name = "Contatta"
+weight = 15
+[[menu.footer]]
+name = "Häufige Fragen"
+weight = 13
+[[menu.footer]]
+name = "Domande frequenti"
+weight = 12
+[[menu.footer]]
+name = "Preise"
+weight = 10
+[[menu.footer]]
+name = "Tariffazione"
+weight = 9
+[[menu.footer]]
+name = "Dienstleistung"
+weight = 7
+[[menu.footer]]
+name = "Servizio"
+weight = 6
+[[menu.footer]]
+name = "Progetto"
+weight = 3
+[[menu.footer]]
+name = "Chi siamo"
+weight = 1
+[[menu.footer]]
+name = "Projekt"
+weight = 4
+[[menu.footer]]
+name = "Über uns"
+weight = 2
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
