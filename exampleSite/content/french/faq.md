@@ -5,10 +5,6 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repud
 lastmod: '2021-04-01T00:00:00.000+00:00'
 bg_image: images/feature-bg.jpg
 layout: faq
-menu:
-  main:
-    name: FAQ
-    weight: 4
 
 ---
 ### Welcome to Airspace!
