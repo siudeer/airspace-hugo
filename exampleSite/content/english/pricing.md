@@ -20,7 +20,5 @@ cta:
 menu:
   main:
     weight: 5
-  footer:
-    weight: 14
 
 ---
