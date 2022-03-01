@@ -7,8 +7,5 @@ menu:
   footer:
     name: Contact
     weight: 6
-  main:
-    name: Contact
-    weight: 6
 
 ---
