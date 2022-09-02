@@ -12,7 +12,7 @@ information:
 - label: Tracking Start Date
   info: 4/1/21
 - label: Status
-  info: Active
+  info: Inactive
 
 ---
 #### I’m Aldo Leopold (collar 87633), a young buck with a passion for science. I'm doing important disease research at the Public Health building, and when I'm not in the lab, you can find me in Thompson Woods.
