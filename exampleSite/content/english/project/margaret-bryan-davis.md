@@ -2,23 +2,22 @@
 bg_image = "/images/deer-background-low-res.JPG"
 category = "Does"
 description = ""
-draft = true
 image = "/images/pictureg.png"
 title = "Margaret Bryan Davis"
 [[information]]
 info = "Female"
 label = "Sex"
 [[information]]
-info = "Adult"
+info = "Juvenile"
 label = "Age"
 [[information]]
-info = "3/22/21"
+info = "3/23/21"
 label = "Tracking Start Date"
 [[information]]
 info = "Active"
 label = "Status"
 
 +++
-#### Hi! I’m Barbara McClintock (collar 84193), an adult doe who loves the hustle and bustle of the center of campus. Say hi if you see me around!
+#### Hi! I’m Margaret Bryan Davis (collar 81431), a juvenile doe who sticks around the life science buildings. I like to check in and see how the deer research is going!
 
-#### [See Barbara's movements by clicking here!](https://deer.siu.edu/maps/ID_84193.gif)
+#### [See Margaret's movements by clicking here!](https://deer.siu.edu/maps/ID_81431.gif)
