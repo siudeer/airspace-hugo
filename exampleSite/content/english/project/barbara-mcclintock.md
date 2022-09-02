@@ -20,4 +20,4 @@ label = "Status"
 +++
 #### Hi! I’m Barbara McClintock (collar 84193), an adult doe who lives the hustle and bustle of the center of campus. Say hi if you see me around!
 
-#### [See Rosalind's movements by clicking here!](https://deer.siu.edu/maps/ID_84193.gif)
+#### [See Barbara's movements by clicking here!](https://deer.siu.edu/maps/ID_84193.gif)
