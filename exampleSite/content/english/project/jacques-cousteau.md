@@ -12,7 +12,7 @@ information:
 - label: Tracking Start Date
   info: 4/1/21
 - label: Status
-  info: Active
+  info: Inactive
 output:
   html_document:
     includes:
