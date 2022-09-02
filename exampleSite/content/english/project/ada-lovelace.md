@@ -19,6 +19,6 @@ info = "Active"
 label = "Status"
 
 +++
-#### Hi! I’m Barbara McClintock (collar 84193), an adult doe who loves the hustle and bustle of the center of campus. Say hi if you see me around!
+#### Hi! I’m Ada Lovelace (collar 81430), an adult doe who is a sports fanatic. You'll find me near the tennis courts!
 
-#### [See Barbara's movements by clicking here!](https://deer.siu.edu/maps/ID_84193.gif)
+#### [See Ada's movements by clicking here!](https://deer.siu.edu/maps/ID_81430.gif)
