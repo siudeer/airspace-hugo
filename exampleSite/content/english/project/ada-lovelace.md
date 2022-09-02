@@ -2,7 +2,6 @@
 bg_image = "/images/deer-background-low-res.JPG"
 category = "Does"
 description = ""
-draft = true
 image = "/images/pictureg.png"
 title = "Ada Lovelace"
 [[information]]
@@ -12,7 +11,7 @@ label = "Sex"
 info = "Adult"
 label = "Age"
 [[information]]
-info = "3/22/21"
+info = "3/23/21"
 label = "Tracking Start Date"
 [[information]]
 info = "Active"
