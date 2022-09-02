@@ -2,7 +2,6 @@
 bg_image = "/images/deer-background-low-res.JPG"
 category = "Does"
 description = ""
-draft = true
 image = "/images/pictureg.png"
 title = "Frances James"
 [[information]]
@@ -12,13 +11,13 @@ label = "Sex"
 info = "Adult"
 label = "Age"
 [[information]]
-info = "3/22/21"
+info = "3/29/22"
 label = "Tracking Start Date"
 [[information]]
 info = "Active"
 label = "Status"
 
 +++
-#### Hi! I’m Barbara McClintock (collar 84193), an adult doe who loves the hustle and bustle of the center of campus. Say hi if you see me around!
+#### Hi! I’m Frances James (collar 88254), an adult doe studying hard around the classrooms!
 
-#### [See Barbara's movements by clicking here!](https://deer.siu.edu/maps/ID_84193.gif)
+#### [See Frances' movements by clicking here!](https://deer.siu.edu/maps/ID_88254.gif)
